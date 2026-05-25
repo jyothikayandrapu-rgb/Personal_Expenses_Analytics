@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Category,Subcategory,Amount,Type,Payment_Method,Merchant,Location,Description,Monthly_Budget,Balance
+1,2026-01-02,Food,Restaurant,3954,Expense,Debit Card,"Galvan, Boyd and Riddle",New Lawrenceport,Test information.,47003,75157
+2,2025-01-26,Bills,Water,2319,Expense,Cash,"Adams, Goodman and Mueller",Christianview,Arrive recent our improve.,35767,55302
+3,2026-05-09,Bills,Electricity,3857,Expense,UPI,"Odom, Bowman and Ward",New Laurenhaven,Plan worry call material.,42552,2160
+4,2025-12-09,Bills,Internet,357,Expense,Debit Card,"Allen, Hamilton and Evans",Mendozaview,Hot skill specific.,7582,85124
+5,2025-10-20,Income,Salary,9441,Income,UPI,"Wong, Alvarado and Villegas",Valenzuelastad,Woman price control.,48056,31554
+6,2026-03-20,Education,Stationery,2732,Expense,Credit Card,Brown-Rogers,South Jamesmouth,Foot low then purpose.,33283,87771
+7,2025-07-12,Transport,Bus,4122,Expense,Cash,Roberts PLC,New Ericaberg,Teacher law add.,29992,12980
+8,2025-01-09,Medical,Doctor,1899,Expense,Credit Card,Jones-Beck,New Jacqueline,Happen this office.,29270,5132
+9,2025-02-22,Entertainment,Games,1470,Expense,Credit Card,"Bell, Tyler and Miller",East David,Receive cut church tax.,16390,55713
+10,2025-10-30,Travel,Tour,1793,Expense,Credit Card,"Clark, Gallagher and Morales",North Ricardoside,Consumer reduce course.,30031,80571
+11,2025-10-31,Bills,Water,3694,Expense,UPI,"Fisher, Richmond and Cruz",East Peter,Again name.,46459,94936
+12,2025-10-12,Income,Salary,27516,Income,Bank Transfer,"Wilkerson, Lamb and Henderson",Wendystad,Ok space.,28001,4759
+13,2025-09-23,Travel,Tour,3157,Expense,UPI,"Mcclure, Terry and Martin",Osbornport,Hard call natural play.,25900,33875
+14,2025-03-27,Bills,Internet,342,Expense,Credit Card,Crawford-Gardner,Jasonburgh,Way describe Mrs.,27665,56509
+15,2025-11-04,Shopping,Clothes,4524,Expense,Bank Transfer,Hess-Pugh,New Matthew,Body trial chance.,14547,1070
+16,2025-07-18,Shopping,Electronics,1436,Expense,Credit Card,Carrillo LLC,Petersberg,Trial usually.,49087,35935
+17,2025-03-19,Bills,Internet,122,Expense,UPI,Foley LLC,Mistystad,Under name listen hear reflect.,44662,73461
+18,2025-05-14,Transport,Bus,4832,Expense,Credit Card,Bryant-Martinez,East Jessicaton,New deal expect clearly number.,7617,84025
+19,2025-03-31,Medical,Doctor,3474,Expense,Debit Card,"Barker, Newman and Dennis",Patrickside,Low suffer financial.,48729,9981
+20,2025-10-22,Shopping,Electronics,4118,Expense,UPI,Gonzales PLC,West Markfurt,Perhaps themselves next less.,16180,46971
+21,2025-04-12,Transport,Fuel,435,Expense,UPI,Lester LLC,Benjaminhaven,Month plant window president position.,37488,49597
+22,2025-06-07,Travel,Hotel,3769,Expense,UPI,Cole-Smith,South Alexanderstad,Why marriage reach unit.,7048,76585
+23,2025-12-02,Medical,Doctor,230,Expense,Bank Transfer,"Anderson, Anderson and Johnson",East Edward,Protect himself.,9238,35655
+24,2025-06-23,Transport,Taxi,3166,Expense,Bank Transfer,Cunningham and Sons,Annaland,Entire financial hand forget month.,44451,76611
+25,2025-07-10,Entertainment,Streaming,2595,Expense,UPI,Hampton-Lopez,Davistown,Leg across fire by.,24200,31079
+26,2025-09-15,Travel,Flight,889,Expense,Credit Card,Moreno Ltd,North Donaldport,Computer interest pressure not reach.,15024,53358
+27,2026-02-18,Shopping,Accessories,638,Expense,Bank Transfer,Robertson PLC,Michaelshire,Economic stuff world.,20866,42630
+28,2025-05-20,Travel,Hotel,2778,Expense,Debit Card,Wise-Hill,Kimberlyborough,Despite interesting society.,10570,12358
+29,2026-02-05,Travel,Tour,1367,Expense,Credit Card,"Mooney, Cruz and Parker",Shanetown,Partner itself.,40896,86598
+30,2025-06-26,Education,Stationery,1383,Expense,UPI,Lewis Group,Douglasport,However finish machine debate computer.,12655,1885
+31,2026-01-12,Bills,Electricity,3474,Expense,Debit Card,"Hernandez, Moore and Ortiz",Lake Mariestad,Election much today.,45927,14902
+32,2026-03-07,Food,Restaurant,2429,Expense,Cash,Conner-Diaz,Smithview,Cup evening firm tree.,48516,11972
+33,2025-03-12,Shopping,Electronics,2705,Expense,Cash,"Allen, Beck and Bradley",Flynnberg,Place safe pattern six.,44059,68743
+34,2026-01-16,Transport,Bus,4506,Expense,Debit Card,"Black, Harris and Meyer",Lake Jamesland,Dinner sort camera.,44446,36627
+35,2025-07-14,Food,Groceries,2153,Expense,Credit Card,Reynolds PLC,West Amandachester,Green ever director.,27222,65008
+36,2025-12-06,Travel,Tour,4777,Expense,UPI,"Greer, Hudson and Wilson",Burtonmouth,Local everybody wonder phone.,13655,15600
+37,2025-07-12,Shopping,Clothes,2881,Expense,UPI,Smith LLC,Ashleyview,Hundred record meet.,22034,85026
+38,2025-05-20,Transport,Bus,154,Expense,Cash,Kennedy Group,New Jefferyfurt,About population.,44197,37237
+39,2025-07-09,Medical,Health Checkup,2854,Expense,UPI,"Le, English and Evans",Feliciamouth,Place improve.,34616,22099
+40,2025-05-09,Shopping,Accessories,414,Expense,Credit Card,"Wade, Thomas and Middleton",West Sheila,Cultural easy behavior agreement.,41841,80385
+41,2025-02-28,Travel,Hotel,359,Expense,UPI,Lee Inc,Mckeeland,Entire gas relate simply.,16630,96586
+42,2025-05-17,Education,Books,4475,Expense,Credit Card,Michael-House,North Nathanchester,On arm hand for peace.,33144,47561
+43,2025-06-30,Travel,Flight,3970,Expense,Debit Card,Moreno-Torres,Brittanyshire,Heavy another.,18477,7547
+44,2025-03-14,Shopping,Accessories,3473,Expense,UPI,"Petty, Marquez and Hutchinson",Toddstad,Clearly necessary assume from.,34975,27172
+45,2026-02-11,Travel,Hotel,622,Expense,Debit Card,"Lopez, Barron and Campos",West Jenniferport,Shoulder election.,18961,39648
+46,2025-04-04,Entertainment,Games,1304,Expense,Bank Transfer,"Stewart, Andrews and Woods",Kathleenburgh,Central community condition than.,30829,86666
+47,2026-05-02,Education,Courses,3651,Expense,Debit Card,"Simmons, Olson and Lewis",South Jake,Build firm just other theory.,48750,74991
+48,2025-01-08,Food,Restaurant,3958,Expense,Cash,Stevens PLC,East Amy,Various him according.,26781,70040
+49,2025-01-29,Bills,Electricity,4292,Expense,UPI,Ramirez-Hubbard,South Robertburgh,Write whether system hot miss.,49688,43807
+50,2025-05-17,Food,Snacks,1133,Expense,UPI,Wall LLC,New Carrieburgh,Cold window change wish.,48535,48497
+51,2025-09-26,Entertainment,Movies,4082,Expense,Cash,Reynolds-Harrison,New John,Represent old.,9485,12571
+52,2025-12-26,Income,Freelancing,38093,Income,Cash,"Hunter, Simmons and Romero",West Ashley,Building admit there in.,33231,3924
+53,2025-02-14,Food,Snacks,3608,Expense,Bank Transfer,Webb-Brown,Taylormouth,Attorney must up.,19531,23291
+54,2025-04-21,Medical,Medicine,2214,Expense,UPI,Haley-Hardy,North Abigail,Game provide Democrat indeed.,46888,32486
+55,2026-04-21,Food,Groceries,4019,Expense,UPI,Williams-Rosario,Victoriabury,Memory now old product.,29945,95490
+56,2025-04-29,Education,Stationery,3442,Expense,UPI,Brady-Martinez,Sherriton,Finally top save.,24669,23032
+57,2026-02-12,Shopping,Clothes,2990,Expense,Cash,Fisher Group,East Holly,Imagine deal challenge.,5182,40937
+58,2025-09-24,Education,Courses,2066,Expense,UPI,"Graham, Mills and Larsen",East Angela,Property hot would.,30267,73021
+59,2026-04-28,Travel,Flight,4300,Expense,Credit Card,Kidd Inc,East Carlos,Onto story bit entire.,34078,89797
+60,2026-02-19,Transport,Bus,884,Expense,UPI,Henry-Shaw,West Victoriaview,Could leave purpose have.,26517,47716
+61,2025-03-14,Income,Scholarship,8123,Income,Bank Transfer,Garza-Sherman,Port Michael,Pass happen always again.,36947,8914
+62,2025-03-02,Shopping,Clothes,4549,Expense,Credit Card,Buck and Sons,Brownland,Space medical create.,36100,89578
+63,2026-04-13,Medical,Doctor,525,Expense,Credit Card,Moreno Inc,New Bradleyview,Call offer this.,6451,38668
+64,2025-07-02,Education,Stationery,2510,Expense,Credit Card,Garcia and Sons,Lake Daniel,Stuff space.,15405,38176
+65,2025-10-07,Transport,Fuel,3538,Expense,Bank Transfer,Hill-Flynn,Stevetown,Though stuff.,47129,44732
+66,2025-12-28,Entertainment,Streaming,3549,Expense,Credit Card,"Shields, Frederick and Smith",Kirkfort,Within forward book under.,13742,99819
+67,2026-04-03,Bills,Internet,956,Expense,Cash,Mason-Velez,Jamesbury,Possible people course step.,49473,97271
+68,2025-05-01,Food,Groceries,3111,Expense,Bank Transfer,Cruz PLC,Ericstad,Sense loss ever happy.,11312,7132
+69,2025-01-30,Food,Groceries,110,Expense,Credit Card,Conley and Sons,Leahbury,Those subject.,46670,28568
+70,2025-07-31,Shopping,Clothes,1075,Expense,Cash,Alvarez LLC,East Christopher,Explain message daughter price.,19308,52410
+71,2025-10-13,Food,Snacks,2490,Expense,Bank Transfer,Soto-Mitchell,East Josephfort,Growth protect we term.,8456,1789
+72,2025-06-20,Travel,Flight,4647,Expense,UPI,Simpson-Frye,Zacharyborough,Pattern deal peace quality.,19993,11559
+73,2026-01-21,Education,Courses,534,Expense,UPI,Bush-Thompson,Kanefort,Bag teacher.,21970,13052
+74,2025-05-04,Income,Freelancing,21115,Income,Credit Card,Taylor-Bradley,Rogersfurt,Although such head.,25592,27882
+75,2026-01-01,Food,Restaurant,697,Expense,UPI,Lindsey Inc,Port Robin,Physical though thing book.,42533,86957
+76,2026-03-28,Bills,Internet,1629,Expense,Debit Card,"Cunningham, Acosta and Gibson",Murrayview,Dream court free.,27863,54489
+77,2026-04-04,Travel,Tour,2983,Expense,UPI,"Higgins, Henderson and Lane",South Jennaville,Mouth talk piece organization.,48522,48108
+78,2025-06-30,Bills,Electricity,1356,Expense,UPI,Rice-Cummings,West Ryan,Marriage guy.,5254,13629
+79,2025-05-19,Income,Scholarship,43562,Income,Debit Card,Santos and Sons,North Karenton,Trip this make go.,49232,7326
+80,2025-08-28,Travel,Hotel,4460,Expense,Credit Card,Buchanan-Moore,Michaelmouth,Once answer church reduce difficult.,16476,3385
+81,2025-10-14,Income,Scholarship,33729,Income,UPI,"Grant, Ruiz and Lee",Jasonchester,Budget store for always.,31490,5533
+82,2025-04-15,Travel,Hotel,578,Expense,Bank Transfer,Dunn-Becker,North Johnchester,Past maintain measure medical public.,40494,96425
+83,2025-03-02,Food,Groceries,3068,Expense,Bank Transfer,"Perez, Sullivan and West",West Marystad,Scientist around value truth.,35303,56301
+84,2026-04-22,Entertainment,Movies,1172,Expense,Bank Transfer,Sanders-Jones,Lake Lisa,Account follow doctor role.,48603,5019
+85,2026-02-15,Education,Courses,900,Expense,Cash,Wilson PLC,South Savannah,Resource goal.,36852,50832
+86,2025-03-03,Food,Groceries,3276,Expense,Credit Card,Gomez and Sons,Lake Brianview,Indicate air bring participant.,5127,67613
+87,2025-06-13,Bills,Water,3060,Expense,Bank Transfer,Smith Inc,Lake Territon,Wrong know he close move.,38409,17822
+88,2025-04-12,Income,Salary,27674,Income,Debit Card,"Jones, Smith and Elliott",New Jonathanhaven,Able discuss rock today.,16947,46804
+89,2025-12-30,Travel,Tour,1024,Expense,Debit Card,"Moore, Rojas and Higgins",Jacksonfort,Top art cost.,31278,20764
+90,2026-04-02,Entertainment,Movies,4693,Expense,Bank Transfer,Franklin Ltd,New Ashley,Hold story pass.,12432,81965
+91,2025-03-10,Travel,Flight,1355,Expense,Debit Card,Lewis LLC,Lake Brendaside,Yes rock.,7382,43858
+92,2026-05-05,Travel,Tour,1901,Expense,Cash,"Patterson, Pham and Flores",Zamoraville,Industry voice since fire piece.,31249,59388
+93,2026-01-04,Shopping,Electronics,4113,Expense,Bank Transfer,"Anderson, Walls and Hall",Port Donna,Whole soldier.,39119,96816
+94,2025-12-31,Travel,Flight,726,Expense,Debit Card,"Lawrence, Pittman and Hernandez",Lake Melissabury,Detail rich everything.,22536,27607
+95,2025-02-15,Income,Scholarship,17062,Income,UPI,Pineda-Richardson,Lopezmouth,Their center radio throw.,35867,18045
+96,2025-04-15,Shopping,Electronics,1246,Expense,UPI,Duffy Group,West Christopher,Phone evening modern.,21510,94352
+97,2025-09-29,Bills,Electricity,3686,Expense,Bank Transfer,Burton-Hamilton,West Jeremy,Building natural woman.,23535,20734
+98,2025-01-04,Education,Courses,3280,Expense,Debit Card,Baxter-Huff,Port Sandraland,Cultural reduce plant information machine.,33643,29735
+99,2025-08-04,Entertainment,Streaming,1153,Expense,Bank Transfer,Curry-Hunt,Walkerchester,Type painting.,20507,38950
+100,2025-04-08,Travel,Flight,1449,Expense,Credit Card,Ball-White,Walkerbury,Keep little myself.,38268,54162
+101,2025-06-29,Food,Restaurant,2255,Expense,Cash,Brown PLC,Steeleberg,Process partner value.,16920,77698
+102,2026-04-13,Income,Scholarship,47865,Income,Credit Card,"Castro, Sullivan and Matthews",Cantuton,International hard.,30677,68779
+103,2026-02-05,Entertainment,Games,1505,Expense,Debit Card,Jones-Gray,Shawnport,Direction day stock.,34122,89171
+104,2025-12-07,Food,Restaurant,613,Expense,Bank Transfer,Williams Group,Port Vickimouth,Lay whether against.,41978,63692
+105,2026-04-11,Transport,Bus,1457,Expense,Credit Card,Taylor Ltd,South Madison,Least think about.,25134,62532
+106,2025-12-11,Income,Scholarship,36930,Income,Credit Card,"Reed, Ingram and Farrell",East Stephenside,Front opportunity whatever tree detail.,17539,37823
+107,2026-01-29,Travel,Flight,2233,Expense,Cash,Parker-Gallagher,Michaelberg,Yourself which.,46498,44675
+108,2025-09-11,Medical,Health Checkup,3237,Expense,Debit Card,"Jackson, Brown and Anderson",Ryanhaven,Black social.,11246,2689
+109,2025-12-26,Transport,Bus,1333,Expense,Bank Transfer,Rogers-Carrillo,Lake Keith,Throughout either.,15797,74491
+110,2025-02-20,Travel,Tour,337,Expense,Cash,Wright Inc,Rodriguezville,Finally operation material.,39765,61005
+111,2025-05-30,Food,Restaurant,2946,Expense,Cash,"Ward, Wright and Lloyd",West Jacobburgh,Blue movement decision team.,23199,11785
+112,2025-09-07,Food,Groceries,1814,Expense,Cash,Garcia and Sons,Reedfort,Effect again set somebody guy.,24866,64246
+113,2025-12-06,Education,Books,1699,Expense,Bank Transfer,Calderon Ltd,Julieburgh,Less billion cover.,12219,90959
+114,2025-03-28,Travel,Tour,3132,Expense,UPI,Flores-Jones,Brendamouth,Past leg party bag side.,40383,38181
+115,2025-11-10,Transport,Taxi,3058,Expense,Credit Card,Kennedy Group,West Kelly,Out agree common.,43735,26143
+116,2026-01-25,Food,Restaurant,3218,Expense,Credit Card,Berry-Reyes,West Janetmouth,Floor second scientist camera believe.,7051,92804
+117,2025-05-04,Education,Courses,1725,Expense,Cash,"Larson, Sparks and Lara",East Christopherland,Very set common avoid institution.,41689,55018
+118,2025-10-19,Travel,Tour,2096,Expense,Cash,Sanchez Ltd,Audreyhaven,Weight support.,14648,11586
+119,2025-06-27,Medical,Medicine,4718,Expense,Debit Card,Moore Group,South Henrystad,Last inside option.,37344,60331
+120,2025-04-13,Education,Books,902,Expense,Debit Card,"Crosby, Swanson and Watkins",Michaelchester,Miss professor.,33420,94524
+121,2025-01-14,Medical,Doctor,1874,Expense,Bank Transfer,Sosa Group,Port Tiffany,Floor think ready.,31225,3341
+122,2026-03-06,Entertainment,Streaming,2867,Expense,Credit Card,Randall PLC,West Hunter,Easy situation.,14408,49574
+123,2025-09-19,Travel,Hotel,2844,Expense,UPI,Jackson PLC,Bryantview,See accept nothing news.,38173,20006
+124,2026-01-21,Bills,Electricity,2805,Expense,Debit Card,Greene-Fowler,Staceyhaven,Form almost field many feel.,28063,80380
+125,2025-08-20,Transport,Fuel,1098,Expense,Debit Card,Barajas-Davis,New Sara,Wish offer star understand.,9008,63686
+126,2025-04-21,Transport,Taxi,125,Expense,Cash,Graham-Wilson,Alvarezborough,Throw reach south point.,8369,51418
+127,2025-08-20,Income,Freelancing,37208,Income,Bank Transfer,Jensen and Sons,Port Jasmine,Property himself better.,29216,38538
+128,2025-09-27,Education,Books,2278,Expense,Debit Card,Fletcher-Deleon,West Robertshire,Just become until guess.,9188,54033
+129,2025-07-29,Travel,Flight,4458,Expense,Cash,Barrett Inc,Marctown,Before late leader born.,30637,93766
+130,2025-05-14,Education,Courses,2715,Expense,Credit Card,Lawson Group,Louisfort,Field dog race interesting.,43852,6047
+131,2026-01-11,Shopping,Accessories,3435,Expense,Cash,"Barnes, Kelly and Boyd",Lindsaychester,Mother travel keep.,9971,13314
+132,2026-01-28,Food,Restaurant,3708,Expense,Debit Card,"Martinez, Johnson and Rogers",Stephanieshire,Act realize own worker.,12912,71640
+133,2025-10-12,Education,Stationery,665,Expense,UPI,Mcfarland PLC,North Paul,Age receive middle organization.,10004,69569
+134,2026-01-04,Bills,Water,4303,Expense,Debit Card,Lozano LLC,Port Johnfurt,Something about great officer.,18294,92248
+135,2025-07-28,Entertainment,Games,3317,Expense,Bank Transfer,"Mason, Steele and Williams",Woodmouth,Receive whom student.,36745,15624
+136,2026-01-11,Transport,Fuel,1876,Expense,Credit Card,White PLC,Sarahberg,Interview early stand.,39679,18410
+137,2025-03-14,Entertainment,Streaming,201,Expense,Debit Card,"Barber, Foster and Jones",Wheelerbury,May happy any skill.,45828,63174
+138,2025-07-02,Bills,Water,1646,Expense,Cash,Stewart-Fox,Lake Ashleyside,Statement improve practice impact personal.,23538,67182
+139,2025-03-06,Transport,Taxi,3866,Expense,Bank Transfer,"Bennett, Leonard and Jones",Sharonberg,Outside mention participant its cause.,11786,65793
+140,2025-05-13,Income,Salary,29863,Income,Cash,Mcconnell Group,East Tamaramouth,Yard position dog material wrong.,38269,96452
+141,2025-12-25,Food,Snacks,1676,Expense,Credit Card,Hall-Palmer,Heidiborough,To everyone.,44358,43074
+142,2025-12-02,Bills,Internet,2278,Expense,Bank Transfer,Grant-Smith,Christophermouth,Reflect something.,6749,42870
+143,2026-02-23,Transport,Taxi,4238,Expense,Bank Transfer,Jones and Sons,North Faithstad,Probably anyone impact.,15157,27366
+144,2025-01-25,Travel,Flight,1056,Expense,Cash,"Brown, Williams and Mullen",Timothyland,Difficult range action.,41654,71396
+145,2026-01-13,Transport,Bus,3746,Expense,Debit Card,Gomez-Bennett,Allentown,Third often former free.,36997,27583
+146,2025-08-29,Income,Freelancing,36967,Income,Cash,"Booker, Jones and Murphy",Welchborough,National really.,28015,32045
+147,2025-09-03,Transport,Fuel,3084,Expense,UPI,Harrington and Sons,South Garyport,Staff customer list.,36712,92172
+148,2026-03-11,Entertainment,Movies,610,Expense,Bank Transfer,Allen and Sons,Port Joshuabury,Tonight require side ground top.,11295,55425
+149,2026-01-21,Income,Freelancing,23842,Income,Cash,"Day, Church and Collins",Lawrenceland,Break five season various.,27862,48922
+150,2026-02-07,Shopping,Electronics,2294,Expense,UPI,Wood Ltd,Chapmanport,No impact serve source.,40160,40292
+151,2025-12-12,Shopping,Accessories,3294,Expense,Debit Card,Bolton-Campbell,Copelandtown,How only say technology.,17708,10677
+152,2025-11-15,Entertainment,Streaming,3712,Expense,Credit Card,Bond-Cooke,East Brendamouth,Wear maybe heart begin technology.,33952,19908
+153,2025-06-18,Education,Books,980,Expense,Bank Transfer,Bowen Ltd,New Anthonyshire,Hit maintain.,41463,82423
+154,2026-02-26,Entertainment,Games,4936,Expense,Bank Transfer,Murray-Fitzgerald,Port Russell,Week will fly person land.,35062,19864
+155,2026-05-02,Entertainment,Streaming,1918,Expense,Cash,"Potter, Bush and Ramsey",Gardnerville,Turn detail.,6864,63502
+156,2025-01-27,Travel,Flight,4117,Expense,UPI,Huang Ltd,Johnbury,Prepare some.,18430,8681
+157,2026-04-28,Bills,Water,4944,Expense,UPI,Anderson-Morgan,Port Eric,Policy company feeling.,38265,15530
+158,2025-09-14,Bills,Electricity,2170,Expense,Cash,Rogers Group,Michelechester,Skin practice stay spend anything.,22503,17732
+159,2025-04-19,Bills,Internet,3286,Expense,UPI,"Maxwell, Wilson and Brooks",Port Samanthamouth,Vote however culture media meeting.,26296,10703
+160,2026-01-27,Education,Books,2819,Expense,Bank Transfer,"Sanchez, Reynolds and Miller",South Sarahfurt,Effect this available.,5073,73354
+161,2026-03-01,Bills,Electricity,2329,Expense,UPI,"Roberts, Anderson and Kelly",Cherylside,Many former activity.,29582,46961
+162,2025-05-22,Education,Stationery,1171,Expense,UPI,Ferguson Inc,Susanshire,Spend chair pick send someone.,8308,50271
+163,2026-03-05,Entertainment,Movies,3647,Expense,Debit Card,Morse LLC,Hollyside,Machine work miss heavy.,33281,76842
+164,2025-10-02,Travel,Tour,2025,Expense,Cash,Brandt-Rojas,Parkershire,Police million customer hold.,37618,91488
+165,2026-04-22,Travel,Hotel,3028,Expense,Bank Transfer,"Baker, Murphy and Stuart",Howardhaven,Around modern.,38717,11730
+166,2025-05-20,Bills,Electricity,310,Expense,Bank Transfer,Coleman Group,Mariabury,Site season.,49420,93170
+167,2025-09-03,Travel,Hotel,318,Expense,Credit Card,Collins PLC,South Sierra,Nice training camera inside.,35144,9388
+168,2026-03-13,Entertainment,Streaming,2472,Expense,Bank Transfer,"Boyd, Barnes and Webster",Caitlinbury,Including hit teach.,47737,76315
+169,2026-01-29,Travel,Flight,3653,Expense,Credit Card,"Thomas, Ramirez and Fitzpatrick",South Juan,Born something protect reach race.,10315,11930
+170,2025-05-15,Travel,Flight,4489,Expense,UPI,Crawford PLC,North Emily,Who sell here oil nation.,32461,50132
+171,2026-04-25,Transport,Fuel,699,Expense,Cash,Galvan Inc,Shannonburgh,Decade generation yet number.,18595,88608
+172,2025-06-25,Bills,Electricity,3028,Expense,Bank Transfer,Johns Group,Sarahbury,No economy sort five.,11940,3583
+173,2025-02-22,Food,Snacks,2232,Expense,Bank Transfer,"Rogers, Gibson and Reid",Dennismouth,Future real evening term one.,13012,99427
+174,2025-02-17,Education,Courses,3141,Expense,Debit Card,Owens LLC,Angelamouth,Someone respond sea bag.,9919,52456
+175,2025-02-28,Food,Restaurant,1379,Expense,UPI,"Lane, Fischer and Pope",Alvaradoville,Fast child.,6562,99490
+176,2025-08-25,Transport,Fuel,2490,Expense,Bank Transfer,Rodriguez Ltd,Shawnberg,Imagine option measure government.,17312,99220
+177,2025-07-01,Transport,Bus,4057,Expense,Cash,Barnes-Young,Gomezberg,Training first help.,34070,51868
+178,2025-08-16,Income,Freelancing,15062,Income,Credit Card,Villanueva-Smith,West Blake,Policy table guess call.,23123,7985
+179,2025-03-24,Bills,Electricity,3100,Expense,Credit Card,"Leach, Mueller and Martinez",Port Michaelport,Tonight true this use according.,13809,38305
+180,2025-08-30,Medical,Doctor,1586,Expense,Bank Transfer,Walker Inc,Cochranhaven,Course job culture concern.,32495,73054
+181,2025-01-26,Medical,Doctor,79,Expense,UPI,Dunn-Davis,Port Karen,Message class back bit.,24792,23932
+182,2026-02-06,Bills,Electricity,2847,Expense,Debit Card,Young LLC,East Davidport,Her discover television.,28510,53517
+183,2025-04-23,Medical,Medicine,2621,Expense,Cash,"Smith, Cook and Koch",Tamaratown,Action gas opportunity before read.,28713,44434
+184,2025-09-26,Entertainment,Streaming,4886,Expense,Bank Transfer,Cox PLC,Brandonberg,Itself instead say.,44051,39464
+185,2025-10-05,Entertainment,Streaming,1507,Expense,UPI,"Adams, Mckinney and Stevenson",Michaelton,Visit that can.,6349,57943
+186,2025-04-21,Travel,Flight,366,Expense,Bank Transfer,Chavez-Ortega,Danamouth,How dog sit.,46172,65868
+187,2025-10-17,Travel,Tour,3054,Expense,Bank Transfer,Mcguire Ltd,Lisaland,Commercial safe loss arm.,38653,32316
+188,2025-04-18,Bills,Internet,1364,Expense,Bank Transfer,"Mcdowell, Smith and Mitchell",Fryeport,Appear material fall.,33958,75837
+189,2026-05-08,Shopping,Electronics,4255,Expense,Cash,Joseph PLC,West Rachel,Recognize account pull meet.,49168,86347
+190,2025-03-16,Travel,Flight,3601,Expense,Cash,Robinson Ltd,Port Lisafort,Likely son today.,30116,49724
+191,2026-04-15,Food,Snacks,3111,Expense,Cash,Anthony PLC,Stacyfurt,Executive find.,26220,80202
+192,2025-07-03,Food,Restaurant,2511,Expense,Bank Transfer,Gray-Cox,North Lisashire,Contain article customer.,28695,24681
+193,2025-07-18,Food,Snacks,2528,Expense,Bank Transfer,"Reed, Wolf and Mcdaniel",Rebeccaburgh,Word view try new.,39895,57579
+194,2026-05-08,Income,Scholarship,13456,Income,UPI,Garcia Group,South Rhonda,Popular both player production discover.,10820,86149
+195,2025-04-08,Income,Scholarship,10601,Income,Bank Transfer,"Fischer, Martin and Gonzalez",Marcushaven,Natural dream bad society law.,21608,63118
+196,2025-10-01,Income,Salary,21200,Income,Credit Card,Wolfe-Walker,Carlaport,Huge score structure.,44444,9663
+197,2025-08-19,Income,Salary,22871,Income,UPI,King LLC,Port Erika,Professional rise the.,24916,99824
+198,2025-06-25,Medical,Doctor,4557,Expense,Debit Card,Bryant LLC,Codyton,Hit he.,46817,46973
+199,2025-06-05,Entertainment,Games,3052,Expense,Bank Transfer,Parsons Group,Lake Maurice,Affect address item.,21859,48816
+200,2025-01-01,Food,Snacks,4462,Expense,Cash,"Jones, Patterson and Burns",Stevenhaven,Church toward guess.,38039,11504
+201,2025-06-15,Shopping,Electronics,4170,Expense,Bank Transfer,Ellis-Mercer,New Lisa,No travel feeling most.,28775,88757
+202,2025-05-22,Medical,Medicine,828,Expense,Debit Card,"Pittman, Davis and Gray",Brandonborough,Morning indeed room.,26224,38647
+203,2025-03-28,Medical,Health Checkup,1377,Expense,Debit Card,Hughes Inc,Barronfurt,Necessary black last right.,32676,69546
+204,2025-11-08,Income,Freelancing,5931,Income,Cash,Marshall PLC,Lake Josephtown,Heart shoulder need choice.,22777,14725
+205,2026-04-17,Entertainment,Streaming,4927,Expense,UPI,Rodriguez LLC,Matthewfurt,Red image.,16257,67977
+206,2025-10-11,Bills,Water,4053,Expense,Cash,Jones Inc,Cruzville,Easy doctor tell street.,5104,61712
+207,2025-04-17,Bills,Water,3315,Expense,Cash,Gonzalez-Thompson,Port Mariachester,Light follow eight.,32263,55527
+208,2025-04-03,Travel,Tour,2826,Expense,UPI,"Hale, Kim and Woods",North Michele,Can discussion lawyer state world.,38330,67356
+209,2025-08-30,Travel,Hotel,2978,Expense,Bank Transfer,"Barker, Fisher and Middleton",Maciaschester,Yard another owner.,29754,54341
+210,2026-02-24,Income,Freelancing,43557,Income,Bank Transfer,Boone-Morales,Harveyshire,Energy simple.,29415,77525
+211,2025-07-15,Transport,Fuel,3941,Expense,UPI,"Clark, Johnson and Blankenship",Port Courtney,Deal instead area.,44079,41718
+212,2025-11-28,Shopping,Electronics,1325,Expense,Bank Transfer,Watkins PLC,East Timothyville,None four guy whatever.,37075,52315
+213,2025-01-05,Education,Stationery,1032,Expense,Credit Card,Craig and Sons,Marshville,Eye brother cold floor bad.,40396,77903
+214,2026-04-04,Medical,Medicine,563,Expense,Bank Transfer,Hunt-Perez,Nancyville,Reflect least.,19570,90575
+215,2025-12-23,Entertainment,Movies,1385,Expense,Cash,Evans LLC,Andersonberg,Somebody ten why thus.,48858,95284
+216,2025-09-27,Travel,Hotel,3724,Expense,Credit Card,Hall Group,North Melissamouth,Activity community ready much bill.,35886,89265
+217,2025-11-01,Income,Freelancing,21190,Income,Debit Card,Harris-Gonzalez,Johnburgh,Play vote boy main.,31499,64808
+218,2025-11-08,Transport,Taxi,4116,Expense,Credit Card,Elliott-Bowers,Brendaville,Sport let finally.,33514,28371
+219,2026-02-22,Food,Restaurant,786,Expense,Debit Card,Flowers-Greer,East Marystad,Bit cut.,26253,28244
+220,2025-04-15,Food,Groceries,3634,Expense,Cash,Scott-Jackson,New Joshuabury,Tough to present include.,13268,36648
+221,2025-07-17,Medical,Medicine,3033,Expense,UPI,"Hutchinson, Wagner and Martin",Mathewsbury,Laugh wear happen mouth.,19109,72693
+222,2025-01-18,Transport,Fuel,4770,Expense,Cash,"Guerrero, Ryan and Andrews",Ericksonfort,Sure probably assume.,9375,64408
+223,2026-01-16,Transport,Bus,2408,Expense,UPI,Fisher Inc,West Coryfurt,Front brother five but.,10326,46433
+224,2025-01-19,Medical,Doctor,2937,Expense,UPI,"Wagner, Johnson and Burke",Sandrahaven,Party he enjoy political.,26751,37061
+225,2025-05-09,Entertainment,Streaming,4761,Expense,UPI,Young Group,North Matthewmouth,Someone real.,16656,51670
+226,2025-06-15,Income,Salary,44591,Income,UPI,"Frank, Watson and Harper",Vasquezborough,Under face yes world.,45084,86105
+227,2025-01-20,Bills,Electricity,2873,Expense,Cash,Long-Lucero,Sharpville,Care travel note.,9486,8697
+228,2025-03-14,Travel,Tour,1495,Expense,Cash,Hoffman LLC,New Melinda,Land how article.,30915,84630
+229,2025-06-06,Bills,Internet,4780,Expense,Bank Transfer,Hopkins-Farmer,Harrisonstad,Charge safe bed.,19132,88861
+230,2025-03-27,Transport,Bus,4252,Expense,UPI,Fields-Hamilton,Lake Sharonton,Blue southern head on television.,18014,68563
+231,2026-01-13,Education,Books,3333,Expense,Credit Card,Gutierrez-Owens,West Dorothybury,Claim another sing.,45012,24368
+232,2026-01-24,Bills,Electricity,853,Expense,UPI,Dominguez LLC,South Elizabeth,Look interview create.,12902,89755
+233,2025-03-04,Bills,Water,4443,Expense,Debit Card,"Smith, Nguyen and Martinez",Pattersonbury,Military throw American second edge.,21824,85968
+234,2025-06-17,Bills,Internet,4253,Expense,Debit Card,Sullivan and Sons,Johnsonfort,Agency tree.,16687,91259
+235,2025-12-31,Food,Restaurant,3143,Expense,UPI,Conway and Sons,Christopherland,Arrive for business.,38171,82243
+236,2026-04-17,Medical,Medicine,3406,Expense,Bank Transfer,"Lewis, Young and Gibson",Garymouth,State threat.,26273,89377
+237,2026-03-27,Entertainment,Games,2428,Expense,Credit Card,Goodman-Mccoy,Lake Timview,Right item building.,44894,89606
+238,2025-09-12,Shopping,Electronics,4498,Expense,Cash,Singh-Powell,Collinstown,Nothing daughter table former few.,39770,56656
+239,2025-12-05,Transport,Taxi,783,Expense,Debit Card,"Torres, Carter and Gonzalez",Port Jon,House skill capital.,27084,6767
+240,2025-04-24,Income,Salary,29996,Income,UPI,"Phillips, Robinson and Smith",Jillview,Rest break hard car.,25390,76224
+241,2025-12-17,Entertainment,Movies,4038,Expense,UPI,"Hull, Mcclure and Serrano",New James,Anything subject however expert public.,29522,7240
+242,2025-10-03,Travel,Hotel,3086,Expense,Debit Card,Rogers-Calderon,North Jayhaven,Watch process sure agent.,11587,79553
+243,2026-01-08,Food,Groceries,1343,Expense,Credit Card,Romero-Bonilla,Audreyhaven,Bed can budget be sit.,42172,10341
+244,2025-10-04,Income,Salary,31673,Income,Credit Card,"Dean, Powers and Hudson",East Rachelfort,Usually provide standard certain.,7509,62455
+245,2025-10-12,Food,Groceries,2237,Expense,Credit Card,Ferguson Group,South Benjaminport,Sister could want seek.,13222,64213
+246,2025-02-20,Medical,Health Checkup,4159,Expense,Cash,Cunningham-Hartman,South Oscarbury,Available nice until.,22382,67511
+247,2026-05-03,Medical,Health Checkup,1960,Expense,UPI,Rodriguez and Sons,Pooletown,The magazine wide account.,8735,44497
+248,2025-10-09,Entertainment,Streaming,4139,Expense,Credit Card,Mason-Pierce,South Jessicaborough,Teach serious case.,19804,48307
+249,2025-05-27,Food,Groceries,415,Expense,Debit Card,Arroyo-Perkins,South Janetville,Yourself that most become.,17600,31234
+250,2025-05-29,Bills,Water,3645,Expense,Credit Card,Macdonald-Hughes,West William,Picture up challenge dinner remain.,26871,57366
+251,2025-05-21,Entertainment,Games,2851,Expense,Bank Transfer,Wheeler-Black,Jillside,Traditional through energy.,34023,98128
+252,2026-02-05,Income,Scholarship,19231,Income,Bank Transfer,Erickson Ltd,Willisfort,Level heavy.,49451,82461
+253,2025-10-30,Income,Scholarship,25953,Income,Bank Transfer,Moran Group,Port Jeffrey,Economy several pick partner.,22167,85469
+254,2025-08-06,Education,Stationery,1892,Expense,Debit Card,"Hale, Edwards and Barnett",Jeromemouth,Rise control choose.,45027,21828
+255,2026-04-13,Travel,Flight,1296,Expense,Bank Transfer,Moore-Smith,Matthewshire,Herself manage go only.,13443,60108
+256,2026-04-26,Transport,Taxi,1249,Expense,Debit Card,Cabrera Inc,Port Michaelbury,Just radio customer officer.,42549,10106
+257,2026-01-28,Entertainment,Movies,2227,Expense,Debit Card,"Fuentes, Myers and Thomas",North Michelle,Adult forward risk wind.,17452,94549
+258,2025-07-12,Shopping,Clothes,2245,Expense,UPI,Davis-Thomas,North Jesse,Computer their game.,34339,68218
+259,2025-03-19,Entertainment,Movies,271,Expense,Debit Card,"Thomas, Harris and Hartman",Port Ian,Month east.,37923,26677
+260,2025-02-22,Education,Books,2045,Expense,Credit Card,Snyder-Kelly,North Anthony,Dream machine guess series us.,48129,53101
+261,2026-02-18,Shopping,Accessories,1864,Expense,Bank Transfer,"Rodriguez, White and Rowland",North John,Soon language sister lay doctor.,36632,91745
+262,2026-02-11,Medical,Medicine,1383,Expense,Bank Transfer,James-White,South Jessica,Read natural describe study.,48174,75704
+263,2025-06-30,Transport,Fuel,3357,Expense,Debit Card,Gibson LLC,South Robert,Black live material so piece.,48631,46291
+264,2025-10-10,Transport,Fuel,2341,Expense,Credit Card,"Spencer, Rivera and Buchanan",North Teresa,Site quality example.,6742,43843
+265,2026-01-11,Entertainment,Games,2139,Expense,UPI,"Carrillo, Lee and Freeman",Port Lisastad,Fall wife finally know.,16872,30054
+266,2025-06-27,Education,Stationery,273,Expense,Cash,Brown Group,West Davidshire,Road his year everything staff.,23489,27965
+267,2025-11-04,Medical,Health Checkup,2691,Expense,Cash,Hall-Anthony,Monicaborough,Resource reality every north.,24822,84983
+268,2026-04-23,Entertainment,Games,4940,Expense,Debit Card,Anderson and Sons,East Manuel,May we mother.,46048,93391
+269,2025-10-24,Income,Scholarship,40325,Income,Credit Card,Lee LLC,West Bradley,Capital station us black necessary.,37617,45898
+270,2025-11-10,Transport,Taxi,1783,Expense,Bank Transfer,"Bates, Good and Hicks",Port Mark,Color difficult ask.,39058,24405
+271,2026-02-21,Entertainment,Streaming,1929,Expense,UPI,Wilkerson-Adams,Allisonfurt,Garden couple.,43490,43851
+272,2025-12-03,Travel,Tour,4934,Expense,UPI,Rodriguez and Sons,New April,Would claim war.,27203,7502
+273,2025-11-11,Food,Restaurant,4620,Expense,UPI,Hampton-Dixon,Mcguirestad,Position huge.,34362,52423
+274,2026-01-24,Food,Snacks,967,Expense,Bank Transfer,"Robinson, Flores and Grimes",West Brenda,No head manage family.,5672,61380
+275,2025-12-27,Shopping,Accessories,1618,Expense,Cash,Nelson-Johnson,Hayesborough,Road administration especially.,22353,18988
+276,2025-09-21,Shopping,Electronics,3682,Expense,Debit Card,Delgado-Nelson,Chapmanberg,Support represent radio type.,47605,83704
+277,2025-05-29,Entertainment,Streaming,540,Expense,Cash,Sexton-Mccall,Lindaville,Kitchen air.,26832,33989
+278,2026-02-25,Education,Courses,1039,Expense,Credit Card,Carter Ltd,East Kim,Feel same opportunity herself.,47860,21302
+279,2026-02-24,Food,Restaurant,2441,Expense,Credit Card,Holloway Group,Robertburgh,Close success south.,33283,29958
+280,2025-11-07,Food,Snacks,1877,Expense,UPI,Foster and Sons,West Don,Season include show last think.,24570,62076
+281,2025-06-28,Food,Snacks,4591,Expense,Cash,Thomas-Pittman,Myersside,Yeah today debate home.,48055,33627
+282,2026-01-29,Medical,Doctor,603,Expense,Debit Card,Gonzales-Rojas,Port Lisaborough,Reflect media western.,30254,84146
+283,2026-01-07,Education,Courses,1163,Expense,Bank Transfer,Robinson Group,North Bryanside,Reduce common end.,46902,55331
+284,2026-03-29,Education,Stationery,1330,Expense,Bank Transfer,Chavez Group,South Michaelfurt,Give will turn look.,14118,55163
+285,2025-12-24,Shopping,Accessories,1992,Expense,Credit Card,"Walters, Jenkins and Thomas",Owenfort,Place expert opportunity.,32331,78381
+286,2026-04-08,Transport,Bus,2146,Expense,Bank Transfer,Wyatt Group,West Carrie,Born special.,7863,16745
+287,2026-03-23,Entertainment,Movies,4842,Expense,UPI,Dunn-Foster,Chambersfurt,Must inside fund rich.,27229,41724
+288,2025-12-08,Shopping,Accessories,3723,Expense,Cash,Andrade-Calhoun,Cuevasside,Pm either him commercial.,12487,22749
+289,2026-01-17,Income,Salary,26768,Income,Credit Card,"Martin, Watkins and Gross",Wendytown,Seat by.,38511,7370
+290,2025-03-24,Income,Freelancing,30467,Income,Debit Card,"Adams, Murillo and Lowe",West Jessica,Mr note pattern true.,35635,77702
+291,2025-11-25,Bills,Water,836,Expense,Debit Card,"Macias, Alexander and Williams",Jamestown,Case forward fly stand visit.,14132,23520
+292,2025-09-09,Entertainment,Movies,3654,Expense,Cash,Baldwin-Howard,Port Veronicastad,Reason establish election your.,27521,39594
+293,2025-03-12,Income,Salary,18033,Income,Bank Transfer,"Salas, Chapman and Hicks",Mitchelltown,Bit cost need town.,12447,90520
+294,2025-05-01,Travel,Flight,1943,Expense,Cash,"Carrillo, Hale and Hays",Morgantown,Control free.,6882,31173
+295,2025-12-26,Travel,Tour,2162,Expense,UPI,"Perez, Flores and Calhoun",Kevinland,Most do pressure yard.,16286,28873
+296,2025-02-05,Income,Freelancing,35142,Income,Bank Transfer,Green Inc,East James,Above enter.,48644,49583
+297,2025-05-12,Travel,Flight,4959,Expense,Debit Card,Gonzalez-Banks,Roberttown,Head final traditional.,37078,72732
+298,2025-12-31,Medical,Medicine,2567,Expense,Cash,"Becker, Colon and Bradley",Christystad,Bed analysis face management strong.,24570,91703
+299,2026-03-24,Bills,Internet,3579,Expense,UPI,Hartman and Sons,North Jillton,Stop property.,20260,64954
+300,2026-03-02,Shopping,Clothes,3263,Expense,Credit Card,Everett PLC,Josephchester,Nor nearly your.,49763,15911
+301,2025-11-29,Transport,Fuel,321,Expense,Debit Card,Moore PLC,Lake Billychester,Source stage save.,22490,44651
+302,2026-03-09,Transport,Bus,1066,Expense,Cash,Young and Sons,Christophermouth,Economic sometimes hope draw.,41198,54314
+303,2025-12-14,Transport,Fuel,968,Expense,Credit Card,Ewing-Miller,Jonesstad,Nature officer place buy industry.,8766,12919
+304,2025-10-14,Travel,Hotel,4223,Expense,Cash,"Ortega, Maxwell and Smith",Nguyenhaven,Father item including range.,15322,14793
+305,2026-03-05,Shopping,Accessories,1841,Expense,Debit Card,Hudson Group,Taylorborough,Easy get about what nature.,41891,88784
+306,2025-08-13,Entertainment,Games,4983,Expense,Credit Card,Stevens-Lee,Lake Jennifertown,Training strong.,12348,28949
+307,2025-06-18,Transport,Taxi,2373,Expense,Cash,"Robbins, Davies and Frank",Roachmouth,Owner mouth activity.,48560,46665
+308,2025-03-30,Education,Courses,3944,Expense,Cash,Webb PLC,Acostaport,Small price hold civil.,45931,18559
+309,2025-06-06,Bills,Internet,4069,Expense,Debit Card,Moore Inc,Bradleyfort,Fill image let.,29027,17981
+310,2026-01-14,Medical,Health Checkup,3472,Expense,UPI,Smith Group,Stacystad,She population want gas.,17563,9365
+311,2026-02-03,Income,Salary,32556,Income,UPI,"Dean, Payne and Adams",South Shannon,Score dark radio.,41084,87268
+312,2026-04-22,Income,Freelancing,39830,Income,Debit Card,Waller and Sons,South Timothy,Agent physical water.,36326,63604
+313,2025-08-23,Entertainment,Streaming,927,Expense,UPI,Church-Bishop,Johnhaven,High discover away.,46332,18011
+314,2025-01-27,Entertainment,Streaming,637,Expense,Bank Transfer,Ross-Hinton,East Daniellemouth,Last score turn cost kitchen.,6452,99993
+315,2026-01-08,Shopping,Accessories,1013,Expense,Bank Transfer,"Webster, Weber and Flynn",West Kelliburgh,Have reason hot read.,32647,49678
+316,2026-04-04,Food,Restaurant,1143,Expense,UPI,"Martin, Tran and Jones",Port Victoria,Build discover between short write.,44346,90283
+317,2025-10-27,Shopping,Electronics,1078,Expense,Cash,Lambert and Sons,Lake Mary,Right how my serve.,24479,38130
+318,2025-08-06,Income,Freelancing,39044,Income,Credit Card,"Lopez, Hart and Romero",Fuentesland,Political team.,38069,12055
+319,2025-03-21,Education,Courses,1424,Expense,Debit Card,"Dunn, Stewart and Zimmerman",Brownland,Turn student born.,22356,99251
+320,2026-03-20,Medical,Health Checkup,2898,Expense,Bank Transfer,Williams-Smith,South Courtney,Approach billion it term.,29480,30903
+321,2025-07-09,Transport,Taxi,2689,Expense,UPI,"Holt, Brooks and Brown",New Kennethfurt,Politics line tax develop source.,26914,84511
+322,2025-11-30,Travel,Flight,1735,Expense,UPI,Bartlett-Moore,Rodriguezborough,Grow thing.,23334,40400
+323,2025-05-28,Entertainment,Games,3459,Expense,Bank Transfer,Evans-Park,Olsonberg,Program time again whole specific.,36945,86402
+324,2025-05-11,Income,Salary,49114,Income,UPI,Collins-Montoya,Nicolestad,Parent note television matter.,9740,90748
+325,2026-01-11,Shopping,Clothes,4225,Expense,Cash,"King, Mcdonald and Robertson",South Williamstad,Easy sound rich place.,37151,28751
+326,2025-06-17,Income,Scholarship,25733,Income,Bank Transfer,Holmes Group,Isabelton,Large remain outside.,13465,76626
+327,2025-12-17,Entertainment,Streaming,1983,Expense,UPI,Brown-Craig,Edwardmouth,Wide them test.,39720,8268
+328,2025-05-31,Income,Freelancing,45994,Income,Credit Card,Mata-Mcclain,South Lindashire,Sell leader should.,7983,99097
+329,2025-12-11,Income,Salary,42734,Income,Bank Transfer,Perez-Thomas,Yorkbury,Enough father age.,22811,15866
+330,2025-03-28,Income,Salary,16732,Income,Debit Card,Wise-Conway,Allenmouth,Fish election politics.,38607,47405
+331,2025-09-25,Education,Stationery,2726,Expense,Credit Card,"Campbell, Murray and Hebert",Thomasview,Authority make industry picture.,42479,72761
+332,2026-04-26,Transport,Taxi,1749,Expense,Credit Card,Hudson Ltd,New Nicoleland,One affect paper pull responsibility.,49484,67788
+333,2025-02-20,Entertainment,Movies,1707,Expense,Debit Card,Meyers and Sons,South John,Minute wind language move book.,29510,21140
+334,2026-01-16,Bills,Internet,298,Expense,Debit Card,Lin Group,New Ashley,Control campaign six fire claim.,6955,8526
+335,2025-08-22,Transport,Taxi,1829,Expense,Bank Transfer,"Kirk, Welch and Thompson",New Megan,Nor everybody national white.,11659,54078
+336,2025-11-22,Food,Groceries,4993,Expense,Debit Card,Moreno-Adams,West Margaretberg,Often some.,40786,91074
+337,2025-06-18,Education,Books,3323,Expense,Credit Card,Johnson LLC,Duffyton,Just everything old agency.,29226,92177
+338,2025-07-09,Transport,Taxi,2484,Expense,Cash,Hardy Group,Harrisside,Beautiful majority as.,49067,8869
+339,2025-02-27,Transport,Taxi,2156,Expense,Credit Card,"Wright, Price and Russo",Lake Larrybury,The use standard.,33822,31522
+340,2025-02-18,Medical,Medicine,573,Expense,Credit Card,Harris-Gilbert,Jessicaton,Word common newspaper.,44462,76749
+341,2025-07-25,Income,Salary,41592,Income,Bank Transfer,Callahan Group,East Terrihaven,Consider once.,44975,30211
+342,2025-09-28,Food,Restaurant,4748,Expense,Bank Transfer,Brady-Lyons,South Lindsay,Class American small share air.,28773,31904
+343,2025-10-20,Travel,Hotel,718,Expense,Credit Card,"Johnson, Houston and Stein",Port Dennisside,Recently style company year.,29776,51218
+344,2025-07-31,Travel,Tour,3305,Expense,UPI,"Roth, Brooks and Manning",West Melissaside,Character loss cup third.,41656,46771
+345,2025-07-07,Shopping,Clothes,2039,Expense,Cash,Hill-Dominguez,West Christine,Despite imagine sometimes simply record.,49433,50881
+346,2025-04-27,Shopping,Electronics,4249,Expense,Bank Transfer,Branch Ltd,Lukeshire,Defense degree animal.,7526,88176
+347,2026-02-22,Medical,Health Checkup,275,Expense,Cash,Richards Group,Lake Emma,Cultural guess finally early improve.,6298,53077
+348,2025-11-20,Bills,Electricity,1226,Expense,UPI,"Wood, Yoder and Moore",Port Lawrence,Four toward measure.,20454,31324
+349,2026-02-26,Food,Groceries,1991,Expense,Bank Transfer,Meadows LLC,Mccormickfurt,Anyone color unit.,31070,30108
+350,2025-03-02,Entertainment,Streaming,3518,Expense,UPI,"Ward, Scott and Pruitt",East Ashley,Image reveal public.,6411,61574
+351,2025-12-13,Entertainment,Games,4318,Expense,Cash,"Kim, Pierce and Merritt",North Douglasmouth,Government music.,35806,56811
+352,2026-04-05,Entertainment,Streaming,2212,Expense,Cash,Mooney and Sons,Mayville,Door paper today.,28251,5305
+353,2025-08-25,Medical,Health Checkup,2020,Expense,UPI,"Baker, White and Phillips",South Crystalland,Purpose real approach.,26954,18774
+354,2025-02-11,Travel,Tour,1564,Expense,Credit Card,Andrews Group,New Anthonychester,Own mind thousand fish.,13553,79657
+355,2026-03-23,Bills,Water,1454,Expense,Debit Card,"Kelly, Kim and Morrison",Whiteburgh,Account nation television structure.,48769,78260
+356,2025-10-16,Income,Scholarship,34140,Income,Cash,Allison-Chase,Donnatown,Meeting real certain seem.,5036,89002
+357,2025-12-01,Bills,Electricity,3222,Expense,Credit Card,"Sanchez, Gonzalez and Rivera",Amandaville,Performance phone but.,29879,70747
+358,2025-01-03,Travel,Flight,4906,Expense,Credit Card,"Frost, Black and Nguyen",Jensenmouth,Land fish side.,5315,58773
+359,2025-05-25,Travel,Flight,3610,Expense,Debit Card,"Grimes, Joyce and Wheeler",East Mary,Probably stop factor.,7526,94933
+360,2025-06-15,Entertainment,Streaming,1750,Expense,Bank Transfer,Clayton LLC,Armstrongville,From garden natural.,12149,86996
+361,2025-09-12,Education,Books,2586,Expense,Debit Card,Martin LLC,Ayalahaven,Kitchen news fill writer.,36999,21901
+362,2025-04-27,Shopping,Accessories,1072,Expense,Cash,"Chavez, Wilson and Wood",South Richard,Voice move couple.,14635,78215
+363,2025-04-21,Transport,Taxi,77,Expense,Bank Transfer,"Newman, Cabrera and Reed",Port Coreystad,Expert radio send above might.,45003,4416
+364,2026-02-18,Income,Scholarship,47052,Income,UPI,Elliott-Clark,Port Donnaberg,Similar field security recently.,40072,15334
+365,2026-03-13,Entertainment,Streaming,2354,Expense,UPI,Hess-Madden,Olsonton,Between represent region huge.,9821,92698
+366,2025-08-02,Medical,Medicine,2449,Expense,Cash,"Hall, Parker and Wyatt",North Maryshire,Many method difference assume thing.,47081,68736
+367,2025-01-19,Education,Courses,492,Expense,Credit Card,Smith-Patterson,Ryanport,Others stay part.,42315,32595
+368,2025-06-15,Shopping,Electronics,1966,Expense,Credit Card,Wilson-Robertson,North Joseph,Out them whole future.,26695,23194
+369,2025-12-26,Medical,Health Checkup,4556,Expense,Cash,Bell and Sons,South Catherine,Soldier war beyond.,17044,48433
+370,2026-03-18,Education,Courses,891,Expense,Credit Card,Ramos-Wallace,Reeseborough,But attention old begin.,45568,97133
+371,2025-07-08,Medical,Health Checkup,4891,Expense,UPI,"Fuentes, Sanchez and Hall",East Erin,City international.,21301,87404
+372,2025-03-09,Transport,Fuel,2155,Expense,Credit Card,"Flynn, Thomas and Pratt",Juliachester,Southern war skin others.,8092,43873
+373,2025-01-20,Education,Books,2172,Expense,Bank Transfer,Patel and Sons,Amyland,Perhaps movie guy.,6034,44809
+374,2026-04-16,Transport,Taxi,257,Expense,UPI,Poole-Montoya,Robertsonburgh,Evidence try arm.,7478,89748
+375,2025-05-25,Entertainment,Games,2599,Expense,Credit Card,Austin-Drake,Jonesborough,Go rock.,28791,67254
+376,2025-04-15,Entertainment,Streaming,2068,Expense,Debit Card,"Olson, Warren and Winters",West Jasonville,Push increase party range threat.,22444,76580
+377,2025-05-17,Income,Salary,43467,Income,Debit Card,"Warner, Williams and Moore",New Rebeccaberg,Writer price partner.,25559,28415
+378,2025-12-18,Travel,Hotel,4180,Expense,Cash,Phillips Group,New Morgan,Value power summer.,32416,15271
+379,2025-07-16,Income,Scholarship,16760,Income,Debit Card,Thomas Inc,North Theresaview,Job shoulder above line.,36677,60552
+380,2025-11-12,Education,Stationery,1690,Expense,Bank Transfer,Baker Group,Lake Tiffanystad,Hear serious.,26259,60190
+381,2026-02-03,Income,Scholarship,46509,Income,Credit Card,Jones-Burgess,South Jeff,Site back any.,21767,19257
+382,2026-04-16,Travel,Flight,2697,Expense,UPI,King-Richmond,North Tammyview,Far final morning officer.,17118,30154
+383,2026-03-04,Bills,Internet,3425,Expense,Bank Transfer,Thomas Inc,Cummingshaven,Unit they which.,6334,54193
+384,2026-02-10,Shopping,Clothes,2047,Expense,Cash,Anderson-Esparza,Sharonborough,Top western financial against.,22964,68708
+385,2025-05-01,Entertainment,Games,3533,Expense,Debit Card,"Curry, Burns and Austin",Lake Nathan,Spring discussion everybody.,44935,86263
+386,2025-11-19,Education,Courses,353,Expense,Debit Card,"Lee, Sherman and King",Port Jennifer,Military executive west forward director.,47126,72020
+387,2025-07-07,Bills,Water,3438,Expense,Bank Transfer,Joseph-Blackwell,North Maryfurt,Scene decade break heavy.,36036,23189
+388,2025-11-01,Medical,Medicine,812,Expense,Bank Transfer,Scott-Galvan,Richardbury,Organization study particular sound.,21854,7775
+389,2026-04-13,Income,Freelancing,6979,Income,Debit Card,"Garcia, Stokes and Williams",Richardmouth,Join decision mean.,20305,12921
+390,2026-01-08,Transport,Taxi,3519,Expense,UPI,Brock Ltd,Smithfurt,Movement us service.,37680,63186
+391,2025-03-04,Medical,Medicine,1889,Expense,Bank Transfer,"Phillips, Walker and Luna",North Reneeton,Manage my strategy fear former.,16197,89087
+392,2026-01-19,Bills,Water,1993,Expense,Cash,"Reynolds, Ray and Garrett",East Matthew,Safe bar financial relate car.,40491,48577
+393,2026-01-20,Income,Freelancing,38278,Income,Bank Transfer,"Walker, Armstrong and Atkinson",Howellborough,Nor start television show include.,21243,42139
+394,2025-12-13,Transport,Taxi,3449,Expense,Credit Card,Lewis PLC,Lake Jacob,Out draw property car include.,25316,73611
+395,2025-07-11,Food,Snacks,3269,Expense,Bank Transfer,Schmidt Group,Keithhaven,Society avoid control model.,27089,43869
+396,2025-07-19,Income,Salary,44844,Income,Bank Transfer,Gibson-Jones,New Johnburgh,Sometimes sea blood.,17587,99776
+397,2025-09-30,Education,Courses,1062,Expense,Bank Transfer,Murray LLC,Lake Deborah,Night ten understand parent agreement.,16906,26477
+398,2025-08-22,Shopping,Clothes,2496,Expense,Debit Card,"Green, Bailey and Mills",Smithfurt,Require resource baby foreign standard.,44302,95446
+399,2025-12-22,Travel,Tour,270,Expense,Cash,Brown-Rhodes,South Mark,Simple probably serve reduce stage.,46538,85604
+400,2025-04-20,Entertainment,Streaming,299,Expense,UPI,Cooper Group,South Natalie,Building him class off.,28566,61413
+401,2025-11-24,Education,Stationery,4871,Expense,Debit Card,Davenport-Gentry,Alexmouth,Keep book drug course pick.,15438,61567
+402,2026-02-17,Income,Salary,31805,Income,Credit Card,Vaughn Group,Lake Gregoryland,Collection between.,29405,31753
+403,2026-01-11,Travel,Tour,2561,Expense,Debit Card,"Henderson, Moon and Marquez",West Olivia,Mind south.,29704,6528
+404,2025-11-15,Shopping,Accessories,911,Expense,Credit Card,"Taylor, Davenport and Oliver",Sarahport,Most stay customer.,14045,30189
+405,2026-04-25,Transport,Bus,579,Expense,UPI,Casey PLC,East Samuel,Million data voice data without.,6553,61337
+406,2026-05-10,Entertainment,Streaming,4596,Expense,UPI,"Green, Love and Davidson",West Kristin,Republican war talk.,37726,62052
+407,2026-02-14,Transport,Taxi,3454,Expense,Debit Card,Owen-Rowe,Rebeccahaven,Test himself sign certain.,5795,12884
+408,2025-05-02,Transport,Taxi,2983,Expense,Credit Card,Guerra Inc,Crystaltown,After fly spend perform challenge.,15685,52327
+409,2025-06-15,Medical,Doctor,858,Expense,Debit Card,Burgess PLC,Burnsbury,Structure defense recognize imagine.,36854,62454
+410,2025-10-05,Medical,Health Checkup,3623,Expense,Cash,Moore-Salas,Lake Amanda,But second somebody.,39707,93166
+411,2025-06-05,Shopping,Electronics,3954,Expense,Credit Card,"Sanchez, Flores and Dudley",West Sandra,Seem suddenly system.,37478,79542
+412,2025-12-08,Education,Courses,3283,Expense,Credit Card,"Patel, Miller and Gordon",Lake Joelshire,Same type often loss.,24266,85129
+413,2025-08-03,Income,Scholarship,44690,Income,Bank Transfer,Jacobs Ltd,Joeport,Name season develop.,20817,10320
+414,2026-04-07,Entertainment,Games,3791,Expense,UPI,Hammond-Cain,Stevefurt,View morning usually.,17109,94907
+415,2025-06-22,Education,Courses,428,Expense,Bank Transfer,"Summers, Gray and Anderson",Masonview,Wall turn law.,19538,44650
+416,2025-10-13,Entertainment,Movies,3096,Expense,Credit Card,Preston Inc,East Morgan,Drug executive way.,35752,98998
+417,2025-12-25,Education,Books,3350,Expense,Bank Transfer,"Bright, Hall and Lester",West Jeremyland,Begin why along.,5783,78119
+418,2026-03-24,Entertainment,Games,158,Expense,Bank Transfer,Lane-Mora,Coreyshire,Picture agree sing.,42110,94070
+419,2025-04-03,Income,Scholarship,15838,Income,Bank Transfer,Hodges-Berger,New Katelyn,Smile skill now.,45913,11200
+420,2025-07-02,Bills,Water,3301,Expense,Debit Card,York Inc,East Willieborough,Would employee pay you.,19126,62247
+421,2026-02-05,Food,Snacks,1729,Expense,Bank Transfer,Elliott Inc,North Karen,Me production.,6979,56618
+422,2025-11-05,Food,Restaurant,2184,Expense,Debit Card,Garcia-Frank,Lewisburgh,Pattern mean like.,21260,94041
+423,2025-03-24,Shopping,Accessories,506,Expense,Cash,"Gonzalez, Brady and Lopez",Davisfort,Share citizen.,48229,34135
+424,2025-06-01,Food,Snacks,4189,Expense,Credit Card,Schmidt LLC,Brianton,Available amount truth.,6280,92981
+425,2025-06-26,Entertainment,Streaming,3722,Expense,Cash,Santos Ltd,East Alan,Growth task similar man official.,11241,74372
+426,2025-12-16,Travel,Flight,861,Expense,Debit Card,"Brock, Adams and Woodard",Gouldshire,Vote executive woman.,43064,17856
+427,2025-08-10,Income,Salary,26195,Income,UPI,Riggs LLC,Tiffanyhaven,Specific institution three mission.,15148,66317
+428,2025-06-28,Bills,Water,261,Expense,Debit Card,Foster-Sanchez,Loweburgh,Any together.,17983,64565
+429,2025-04-14,Transport,Fuel,3834,Expense,UPI,Hayes-Norris,Wrightville,Occur court.,35888,57790
+430,2026-05-02,Education,Books,1555,Expense,Bank Transfer,Pierce-Gonzalez,East Tyler,Newspaper expect.,8521,38252
+431,2025-04-26,Shopping,Clothes,3675,Expense,Debit Card,Gordon LLC,North Stephanie,Institution administration both hour.,14727,3776
+432,2026-04-25,Shopping,Accessories,4879,Expense,Bank Transfer,"Williams, Elliott and White",East Jason,Magazine involve him.,13395,68327
+433,2025-05-08,Medical,Medicine,4239,Expense,Bank Transfer,Jones PLC,Chadtown,Man new future.,20203,83991
+434,2025-11-25,Bills,Electricity,4051,Expense,Cash,"Gonzalez, Vaughn and Gibbs",North Lisafort,Sing art ten.,12731,76467
+435,2026-02-12,Bills,Internet,1622,Expense,UPI,King-Blair,West Kevintown,Federal change several.,28959,91448
+436,2026-03-07,Travel,Tour,4252,Expense,Cash,"Gonzales, Reyes and Martinez",North Emily,Everyone same sport yes.,35794,39064
+437,2025-01-16,Entertainment,Streaming,831,Expense,Debit Card,Collins-Bean,Markland,Bar hope unit.,38681,1783
+438,2025-06-19,Income,Freelancing,31846,Income,UPI,Williams-Barry,Franklinfort,Be imagine.,36237,26000
+439,2026-04-10,Travel,Tour,4931,Expense,Debit Card,"Howard, Zuniga and Evans",Lake Joshuabury,They majority either.,9249,51409
+440,2025-04-20,Medical,Health Checkup,4320,Expense,Credit Card,Smith and Sons,Port Kevinland,Of three after most.,33100,74786
+441,2025-02-06,Entertainment,Games,423,Expense,Bank Transfer,Brooks Group,Jasonfurt,Soldier Mrs.,10951,96639
+442,2025-10-08,Food,Restaurant,2648,Expense,Cash,Mckinney-Ortega,Fowlerbury,Study fish across view.,35607,32603
+443,2025-03-18,Travel,Tour,434,Expense,Credit Card,Peterson-Christian,North Arthur,Hotel three minute.,11375,36088
+444,2026-04-12,Bills,Electricity,3892,Expense,Debit Card,Powell Ltd,Andrewburgh,Challenge serve economy.,33285,9995
+445,2026-01-26,Bills,Water,4541,Expense,Cash,Harrison-Taylor,Yoderberg,Should hour president only control.,49961,30370
+446,2026-03-06,Bills,Electricity,596,Expense,Credit Card,Carter-Sampson,East Davidshire,Day color.,34620,19119
+447,2025-09-25,Education,Stationery,2539,Expense,UPI,Ford-Garrett,Lindseybury,Mission her alone style.,17934,18578
+448,2025-08-11,Food,Restaurant,3219,Expense,UPI,Mathis-Montgomery,North Ebony,Century really hundred law woman.,21392,99062
+449,2025-02-27,Transport,Taxi,4392,Expense,Cash,Jackson Inc,Port Philip,Eat actually develop body.,15840,83892
+450,2025-10-21,Shopping,Electronics,1441,Expense,Cash,Payne and Sons,West Julieville,Education several need concern.,17667,93053
+451,2025-10-26,Bills,Water,2089,Expense,Cash,"Barnes, Jones and Morales",Lake Alexandra,Expert final never.,24471,22121
+452,2025-10-17,Entertainment,Games,2855,Expense,Credit Card,"Johnson, Villarreal and Dodson",Joeshire,Expert whatever show support measure.,27127,36195
+453,2025-10-22,Medical,Medicine,4065,Expense,Credit Card,Osborne-Diaz,West Jessica,Culture myself teacher enjoy represent.,14891,56603
+454,2025-11-02,Education,Books,1295,Expense,Cash,Gonzalez and Sons,East Clayton,Customer free market attention support.,45991,70176
+455,2025-04-17,Shopping,Clothes,3838,Expense,Bank Transfer,Park and Sons,Keithland,Explain word best believe.,19834,84364
+456,2025-02-27,Shopping,Electronics,3765,Expense,UPI,Hernandez-Williams,New Maryfurt,Officer get thousand friend.,26807,30174
+457,2025-07-03,Entertainment,Movies,4907,Expense,Credit Card,"Oliver, Wilcox and Hernandez",Martinburgh,Share positive either significant.,47791,82838
+458,2025-05-04,Bills,Internet,1200,Expense,Bank Transfer,Lee Ltd,East Ricky,Despite treat fall hour think.,40012,60750
+459,2025-01-08,Travel,Tour,1993,Expense,Bank Transfer,Collier-Thomas,Rodriguezmouth,Join certain customer.,46443,49331
+460,2025-08-13,Food,Snacks,4908,Expense,Debit Card,"Butler, Brown and Gray",New Justin,Free science authority policy hotel.,21090,87481
+461,2026-02-08,Shopping,Clothes,627,Expense,Cash,Anderson-Dominguez,Jacquelinefort,Wall player.,12696,56645
+462,2025-05-13,Travel,Flight,2406,Expense,Credit Card,"Arroyo, Larsen and Shelton",Lake Isabel,Hit second sit only.,30905,35251
+463,2025-02-02,Shopping,Electronics,3542,Expense,Debit Card,Ford Ltd,Youngburgh,Ok important energy great today.,13329,45711
+464,2025-06-22,Food,Groceries,2346,Expense,Bank Transfer,"Day, Jones and Hernandez",Arroyoport,Policy between main there college.,5043,97944
+465,2025-09-13,Shopping,Electronics,976,Expense,Bank Transfer,Smith Inc,Jonside,Price include arrive moment example.,16767,74170
+466,2025-08-11,Shopping,Clothes,862,Expense,UPI,Fleming-Houston,Conradland,Good task none lawyer.,5073,18720
+467,2025-12-04,Income,Scholarship,23733,Income,Cash,"Johnson, Mejia and Meyers",Stephaniestad,Republican get.,46921,78961
+468,2026-03-28,Travel,Tour,2437,Expense,Cash,Smith Ltd,Danielfort,Finish top.,12847,40949
+469,2025-12-11,Education,Stationery,4625,Expense,UPI,"Chambers, Hensley and Harper",East Matthew,Without if move visit draw.,38677,25648
+470,2025-03-24,Education,Books,277,Expense,Credit Card,Harrison and Sons,South Margaretberg,Woman bar meeting particularly small.,10333,99225
+471,2026-03-30,Transport,Taxi,4268,Expense,Debit Card,Robinson Inc,East Tracy,Present subject network.,26304,5879
+472,2025-04-20,Food,Restaurant,464,Expense,Bank Transfer,Jenkins-Schwartz,Nancyberg,Theory off successful because.,26103,17543
+473,2025-04-18,Shopping,Clothes,1319,Expense,UPI,"Kennedy, Leon and Shields",New Marioborough,Candidate short leg certain.,35148,17780
+474,2025-05-29,Bills,Electricity,3299,Expense,UPI,"Cooper, Harrison and Mcgrath",Veronicamouth,Score letter suffer.,19250,97794
+475,2026-03-06,Bills,Water,1598,Expense,Debit Card,Pierce-Bradshaw,North Natalie,Require former.,25646,64773
+476,2025-06-28,Medical,Doctor,3987,Expense,UPI,Hernandez-Atkinson,Kevinside,Six Mrs character if whom.,26117,33571
+477,2025-08-09,Food,Snacks,924,Expense,UPI,"Merritt, Garcia and Sellers",North Julia,Fast room weight.,5429,65534
+478,2025-09-18,Medical,Health Checkup,3746,Expense,Cash,Jackson-Scott,South David,Quickly herself.,48912,61476
+479,2025-02-17,Bills,Water,2097,Expense,Bank Transfer,Vance Inc,Martinezhaven,Much wife suffer.,40704,42634
+480,2025-01-06,Income,Freelancing,11810,Income,Bank Transfer,Riggs LLC,North Christopher,Edge individual bag I parent.,21571,75850
+481,2025-12-20,Bills,Electricity,2665,Expense,Cash,"Byrd, Watts and Davis",Port Janetborough,Answer political.,22676,91634
+482,2025-08-22,Entertainment,Streaming,311,Expense,Cash,Green-Gallegos,Natalieton,Yard ready me.,8866,9408
+483,2025-06-29,Food,Snacks,3874,Expense,Bank Transfer,Welch-Hall,North Angela,Believe travel others simple peace.,28626,67240
+484,2025-02-06,Income,Freelancing,12055,Income,UPI,"Maldonado, Sanchez and Hernandez",Gonzalezton,Property positive particularly technology.,34385,67208
+485,2025-11-18,Bills,Electricity,674,Expense,Credit Card,"Craig, Miller and Lee",Lake Jimmyton,Lot who cover however.,17400,22686
+486,2026-05-04,Transport,Bus,218,Expense,Debit Card,Wagner-Olson,Jenkinshaven,Among soon wind worker.,11470,72606
+487,2026-04-03,Shopping,Accessories,4069,Expense,UPI,Salazar-Rowe,East Julian,Skin century scene class.,25996,24383
+488,2025-12-09,Income,Salary,49985,Income,Cash,Kelley Inc,Shannonshire,Subject glass bill.,36071,57730
+489,2026-01-10,Transport,Fuel,1898,Expense,Credit Card,"Taylor, Fisher and Smith",South Stevenville,Evening mission win.,39468,9554
+490,2026-05-09,Shopping,Clothes,2558,Expense,Debit Card,"Wright, Moody and Bowers",Monicahaven,Control bar.,35957,5907
+491,2025-10-27,Education,Books,1724,Expense,Cash,"Donovan, Mann and Avila",Moorefort,Seven perform election.,17783,74924
+492,2025-11-09,Food,Snacks,2347,Expense,Bank Transfer,Woodward-Tucker,Elizabethburgh,Shoulder thousand total culture.,20323,2654
+493,2026-02-12,Travel,Tour,803,Expense,Debit Card,Snyder LLC,Michaelmouth,Senior chance focus little.,32031,63470
+494,2025-09-28,Entertainment,Movies,3544,Expense,Cash,"Johns, Lopez and Schneider",East Amyburgh,Among sit parent although TV.,30574,97805
+495,2026-04-17,Medical,Doctor,4005,Expense,Cash,"Davis, Roberts and Johnson",Masonfurt,Best outside write.,10580,8643
+496,2025-04-10,Medical,Medicine,4576,Expense,Credit Card,Gutierrez Ltd,Melendezville,Health word necessary.,34842,43346
+497,2025-12-12,Bills,Water,4624,Expense,UPI,Armstrong-Rogers,New Daniel,Agree us real security.,15501,4214
+498,2025-08-06,Bills,Electricity,2798,Expense,Credit Card,Keller PLC,South Lucas,Age PM case ever central.,13327,57142
+499,2025-05-26,Education,Stationery,1324,Expense,Debit Card,Johnson Group,Scottmouth,Manage what model since.,12980,74651
+500,2026-02-08,Travel,Hotel,1468,Expense,Bank Transfer,"Hines, Hill and Dean",Lake Michelle,Big ahead follow.,48513,27966
+501,2025-02-09,Shopping,Accessories,1885,Expense,Credit Card,"Stevens, Park and Martin",North Raymond,Heavy tell nation.,12904,65756
+502,2026-03-15,Food,Restaurant,1273,Expense,Bank Transfer,Neal LLC,West Pamela,Week three reality heart.,28740,20419
+503,2026-01-25,Education,Courses,440,Expense,Debit Card,Boyd Inc,Tranfurt,Gas official describe she suffer.,27059,54160
+504,2025-05-01,Food,Restaurant,1788,Expense,UPI,"Davenport, Graves and Davis",East Paul,Training night tend.,41051,25137
+505,2025-12-11,Entertainment,Games,2315,Expense,Cash,Nelson-Bell,Ochoaville,Stand likely.,16156,10585
+506,2026-02-14,Travel,Flight,711,Expense,Debit Card,Payne-Rice,Lake Phillipfort,Image group beat point commercial.,27518,56670
+507,2026-04-08,Food,Groceries,1712,Expense,Debit Card,"Allen, Day and Hawkins",Gregorymouth,Themselves without business speech.,36105,45143
+508,2026-03-11,Transport,Bus,4474,Expense,Credit Card,King PLC,West Ryanmouth,Dog why dog deep.,11901,74725
+509,2025-04-03,Bills,Internet,4448,Expense,Cash,Bell-Warren,Martinchester,Cut require let.,14418,69012
+510,2026-04-18,Education,Stationery,4779,Expense,UPI,"Thomas, Watson and Rivera",Lewischester,Road end.,24100,77082
+511,2026-04-26,Bills,Internet,74,Expense,Cash,Hall Inc,Wilsonborough,Stand father this training strategy.,11195,2355
+512,2026-01-07,Transport,Fuel,1389,Expense,Debit Card,Stanton and Sons,West Janetfurt,Fly rock game.,26438,90958
+513,2026-04-01,Transport,Fuel,1651,Expense,UPI,"Burnett, Jenkins and Stewart",South Saratown,Plant government west manager.,31455,47794
+514,2025-08-23,Bills,Internet,4193,Expense,Bank Transfer,"Reese, Hawkins and Christensen",Port Valerie,Provide minute tax care.,8851,55137
+515,2026-03-21,Food,Restaurant,3283,Expense,Credit Card,Villa-Jackson,Lake Samanthachester,Under person.,13340,1592
+516,2025-07-14,Medical,Health Checkup,3425,Expense,UPI,Santana-Cochran,New Johnnychester,Set service budget process.,18006,31782
+517,2025-03-24,Travel,Hotel,3690,Expense,Debit Card,Cannon Inc,Port Keithberg,Above against its other.,16727,58265
+518,2025-10-09,Education,Books,2769,Expense,Bank Transfer,"Harvey, Jefferson and Sanders",South Pamela,Information fall most past news.,31104,52932
+519,2026-02-01,Travel,Flight,4515,Expense,UPI,"Farley, Wood and May",South Oscarland,Agree born.,17785,63292
+520,2025-11-06,Medical,Health Checkup,4663,Expense,Bank Transfer,Arnold PLC,North Scott,Write either thing.,15478,15427
+521,2025-09-03,Bills,Water,1695,Expense,UPI,"Whitney, Young and Barker",North Jared,Month according exactly.,42616,13984
+522,2025-11-19,Travel,Hotel,2806,Expense,Bank Transfer,Nelson LLC,Elliottshire,Their question traditional race.,20592,47683
+523,2025-06-21,Bills,Water,3350,Expense,Credit Card,Bennett-Waters,West Victoria,Seat too race force federal.,49844,46826
+524,2025-07-23,Bills,Water,1746,Expense,UPI,"Morris, Smith and Mcguire",West Rachel,Official red meeting several.,34819,91909
+525,2026-04-04,Bills,Internet,3279,Expense,Cash,Cole Inc,Mitchellmouth,Create reveal.,8261,11858
+526,2025-04-13,Income,Scholarship,43238,Income,Credit Card,Shepherd-Wallace,Houstonland,Subject though their.,7523,20077
+527,2026-03-30,Transport,Fuel,2149,Expense,Bank Transfer,Wyatt Ltd,Carloshaven,Move former.,49920,1084
+528,2025-01-11,Shopping,Electronics,1729,Expense,Bank Transfer,Dominguez PLC,Laraside,Million less entire.,27266,60997
+529,2025-04-24,Income,Freelancing,28764,Income,Debit Card,"Chang, Parks and Olson",South Joseph,Little yard research.,47959,9743
+530,2026-03-04,Shopping,Accessories,4135,Expense,Bank Transfer,Anderson LLC,West Robert,Daughter too development candidate.,15639,81117
+531,2025-08-21,Travel,Tour,2870,Expense,Debit Card,Maddox PLC,Weaverfurt,Enjoy movement us eat region.,9884,89153
+532,2025-10-24,Medical,Medicine,1298,Expense,Bank Transfer,Wallace-Hanson,Jamesberg,You me goal.,25084,30884
+533,2025-01-24,Travel,Tour,801,Expense,Credit Card,Hill-Williams,Nelsonshire,Choice soon none lot.,49105,37624
+534,2025-01-22,Travel,Hotel,1279,Expense,Credit Card,Wilson-Perez,Adamton,Letter though our economic.,10422,24716
+535,2025-02-05,Income,Salary,43733,Income,UPI,Young-Yang,Bowmanmouth,Wish value base.,40571,78511
+536,2025-11-13,Income,Scholarship,43326,Income,Debit Card,Andrade-Douglas,Rachelfort,Parent beautiful realize week modern.,13407,54842
+537,2026-03-05,Entertainment,Games,1893,Expense,Credit Card,Snyder-Stark,Shahburgh,Protect a low your.,13749,55651
+538,2026-04-22,Entertainment,Streaming,1164,Expense,Debit Card,"Jones, Anderson and Brown",South Jenniferhaven,Public place always main.,23274,16671
+539,2025-01-13,Education,Courses,2854,Expense,Debit Card,Costa-Conner,Tiffanyfurt,Finally if gun country that.,48775,75356
+540,2025-08-07,Education,Stationery,4844,Expense,Cash,Holloway-Smith,Bakerbury,Fine word fine.,25580,56168
+541,2026-02-11,Travel,Tour,324,Expense,UPI,Castillo Inc,South Jill,Reduce center hotel mother still.,22825,71471
+542,2026-04-24,Food,Restaurant,3281,Expense,UPI,"Yoder, Torres and Mitchell",Hicksborough,Morning shoulder.,23527,1899
+543,2026-02-25,Shopping,Electronics,763,Expense,Credit Card,"Smith, Rogers and Moreno",North Douglasbury,Cut rock short employee.,47573,37564
+544,2025-07-31,Food,Snacks,1286,Expense,Bank Transfer,Jones-Cameron,Port Donna,Commercial body.,22770,32687
+545,2025-07-05,Food,Groceries,2624,Expense,Bank Transfer,Walker Ltd,North Kyletown,Most with inside forget.,30077,46996
+546,2026-01-22,Bills,Internet,2005,Expense,Credit Card,Reid and Sons,North Jessica,Political meeting half measure.,14759,43773
+547,2025-08-16,Medical,Medicine,2836,Expense,Bank Transfer,"Clarke, Morris and Clay",Port Benjamin,Some parent throw note.,17880,97572
+548,2026-01-30,Income,Salary,19102,Income,Bank Transfer,Barrera-Mcgee,North Ricardostad,Because area party network.,32035,46267
+549,2025-01-22,Shopping,Accessories,1115,Expense,Cash,"Estrada, Johnson and Hughes",Chelseaberg,Ask where receive executive brother.,5365,4919
+550,2025-06-29,Medical,Doctor,4954,Expense,Bank Transfer,Goodman-Meadows,Joneston,Mean father task.,33189,40620
+551,2025-01-01,Food,Restaurant,3529,Expense,Credit Card,May-Hensley,Lake Emma,Use model college debate.,25171,55658
+552,2025-06-14,Travel,Flight,1953,Expense,Bank Transfer,Velez Inc,Lake Anthonyborough,Set social against.,35953,28097
+553,2026-01-20,Travel,Hotel,2742,Expense,UPI,Lewis-Weber,West Keith,Fund share important.,49495,71815
+554,2025-09-13,Bills,Water,2712,Expense,Credit Card,Chan-Phelps,Melissaberg,Reach participant Mrs measure agent.,30586,15168
+555,2025-07-22,Transport,Bus,4415,Expense,Bank Transfer,Long LLC,Lake Wendyville,Positive six respond identify.,34099,4301
+556,2025-06-14,Transport,Bus,1189,Expense,UPI,Woods-Sutton,Weaverfurt,Fly answer.,9450,96323
+557,2026-03-03,Medical,Medicine,859,Expense,Credit Card,Wilson-Jones,Davisfurt,News oil.,11008,81795
+558,2025-02-23,Shopping,Clothes,1640,Expense,UPI,Pena Ltd,New Rickymouth,Hold tonight training ahead.,21990,16935
+559,2025-06-08,Income,Salary,18817,Income,Bank Transfer,"Lambert, Smith and Smith",South Annaburgh,Old agreement necessary.,36308,80920
+560,2026-04-14,Medical,Doctor,995,Expense,Credit Card,"Mullins, Oliver and Young",Joshuachester,Back run car recognize drop.,35026,19125
+561,2025-01-02,Entertainment,Games,4397,Expense,Cash,Hughes-Briggs,New Briannabury,Future last try pattern this.,27111,15163
+562,2026-04-10,Bills,Electricity,3023,Expense,UPI,Aguilar-Oconnell,Olsonville,Only actually camera.,25674,15599
+563,2025-12-01,Medical,Health Checkup,469,Expense,Debit Card,Donovan Ltd,West Michael,Economic share point owner.,25896,61839
+564,2026-04-15,Travel,Tour,965,Expense,Cash,Johnson LLC,West Joseph,Training police.,41029,66759
+565,2025-02-03,Income,Salary,15848,Income,Bank Transfer,Andrews-Webster,Dominguezfort,Before along shoulder can him.,20295,94839
+566,2025-06-06,Travel,Hotel,3899,Expense,Credit Card,Sanchez LLC,North Daniel,Particularly nation fish.,34637,98089
+567,2025-08-27,Travel,Tour,227,Expense,Cash,"Mclean, Morales and Wright",Lake Erinbury,Explain wide.,21912,26158
+568,2025-09-24,Bills,Electricity,2318,Expense,Credit Card,"Parker, Rice and Bentley",Lake Jason,Decision place anyone.,43384,7428
+569,2025-11-04,Shopping,Electronics,1399,Expense,Debit Card,"Butler, Castillo and Shelton",Moranland,Lose I far situation organization.,40143,58635
+570,2026-02-01,Bills,Electricity,877,Expense,UPI,Lewis-Curtis,South Amberland,Production pretty reflect.,23261,54229
+571,2025-01-14,Income,Salary,48854,Income,Bank Transfer,Chavez Inc,Taylormouth,Power career down.,20761,43760
+572,2025-05-25,Medical,Medicine,244,Expense,Cash,Perkins PLC,Carneytown,Own dream people.,9499,3219
+573,2025-05-13,Bills,Internet,1281,Expense,Cash,Haas-Figueroa,Sandersview,From two region speak management.,46915,98094
+574,2025-04-07,Travel,Flight,970,Expense,Credit Card,Flores-Herrera,Chadborough,Ago surface evening bring.,39031,39683
+575,2025-08-31,Bills,Internet,2299,Expense,Bank Transfer,"James, Briggs and Brooks",Tammyport,Direction stage manager show phone.,9399,51735
+576,2025-11-11,Medical,Medicine,2035,Expense,Bank Transfer,"Barber, Perez and Martinez",Rogersshire,Democrat significant boy enjoy.,14285,63796
+577,2025-11-23,Transport,Taxi,3103,Expense,Cash,Robinson Group,Brianmouth,Before support.,37936,82131
+578,2025-11-21,Shopping,Accessories,1946,Expense,Debit Card,Barnett-Ramirez,Jasonburgh,Brother forward her play yeah.,48558,90744
+579,2025-11-19,Shopping,Accessories,3492,Expense,Debit Card,Carter PLC,East Nancymouth,Student authority may adult Mr.,27826,20050
+580,2025-11-27,Food,Restaurant,2589,Expense,Bank Transfer,Brown-Hill,Henrymouth,Offer oil.,23335,16150
+581,2026-04-20,Travel,Flight,4303,Expense,Debit Card,"Smith, Benjamin and Nelson",Bennettton,Environmental make avoid increase.,45033,64843
+582,2025-11-06,Travel,Hotel,2090,Expense,Debit Card,"Reilly, Galloway and Brock",Anthonyberg,Wife second myself.,34189,75476
+583,2026-01-05,Travel,Tour,616,Expense,Bank Transfer,Hawkins-Brown,Lake Emilymouth,Party tonight.,9732,85711
+584,2025-11-06,Bills,Water,4589,Expense,Debit Card,"Martinez, Cole and Delacruz",Johnburgh,Population culture accept today book.,39882,87975
+585,2025-03-18,Bills,Water,750,Expense,Credit Card,Miller-Sutton,Jonesland,Social result really newspaper.,20021,67864
+586,2026-05-08,Bills,Internet,3873,Expense,Debit Card,"Williamson, Anthony and Washington",Matthewhaven,Series item.,48213,90088
+587,2025-01-28,Medical,Health Checkup,1030,Expense,Cash,Soto-Mejia,South Rebeccaborough,Woman information ready.,35919,88141
+588,2026-03-21,Food,Snacks,2689,Expense,Cash,Nelson-Saunders,West Sherry,Road piece yourself nearly I.,19387,3443
+589,2025-10-13,Food,Groceries,1243,Expense,Cash,Miller Ltd,Maldonadomouth,Fight movement identify.,9449,83520
+590,2025-01-03,Income,Salary,35595,Income,Credit Card,"Randall, Norris and Stevenson",Port Rachelburgh,Family provide weight record.,16187,24594
+591,2026-03-07,Travel,Flight,1224,Expense,Cash,"Garrison, George and Miller",Scotthaven,Still sell.,15918,39821
+592,2025-05-20,Education,Books,2075,Expense,Debit Card,"Thompson, Collier and Walker",Port Curtistown,Next hand.,28998,10989
+593,2026-04-26,Travel,Flight,4959,Expense,Credit Card,Wright-Marquez,Michaelside,Article special them radio pay.,48856,92833
+594,2025-02-21,Bills,Internet,2215,Expense,Bank Transfer,"Barber, Moyer and Graham",Stephanieborough,Career garden field.,40389,40672
+595,2026-01-29,Bills,Water,4333,Expense,UPI,Deleon-Edwards,Justinhaven,Pay after owner example.,29537,29201
+596,2026-05-11,Food,Groceries,1922,Expense,Credit Card,Edwards-Shelton,Port Todd,Recently page imagine kitchen.,49069,64579
+597,2025-04-15,Bills,Water,3586,Expense,Cash,"Romero, Salazar and Robinson",Myersland,Work red thing notice.,36554,39398
+598,2025-03-09,Food,Snacks,2266,Expense,Credit Card,Davis-Anderson,Jeffreyburgh,Help identify page.,25980,96326
+599,2025-06-06,Entertainment,Games,2937,Expense,Debit Card,Simmons Ltd,Lake William,Deep billion wall.,46175,1106
+600,2025-08-08,Shopping,Electronics,4965,Expense,UPI,Hall-Garrett,New Kristen,Fish meet prevent.,46780,63292
+601,2025-07-06,Bills,Internet,4132,Expense,Bank Transfer,Warren-Bolton,Patrickfurt,Commercial source.,21544,56254
+602,2025-08-14,Shopping,Accessories,1161,Expense,Credit Card,Ramos PLC,Kimberlyview,Plant girl remember.,39887,30302
+603,2025-09-14,Travel,Tour,3283,Expense,Bank Transfer,Kennedy-Walker,Port Peterview,Radio official one safe until.,26047,83455
+604,2025-12-15,Food,Restaurant,1664,Expense,Bank Transfer,Collins-Turner,North Christopherstad,Any my force.,13144,41974
+605,2025-05-19,Travel,Tour,1167,Expense,Bank Transfer,"Hardy, Evans and Kaufman",New Kathrynbury,Hot hair often traditional.,39285,62626
+606,2025-05-25,Travel,Tour,1507,Expense,UPI,Powers and Sons,Barbaraport,Performance big sense choice.,12602,86833
+607,2025-11-19,Food,Groceries,1552,Expense,Credit Card,"Torres, Burke and Mathis",West Sheliaport,Strategy able vote.,11387,68807
+608,2025-03-12,Medical,Doctor,1948,Expense,UPI,Smith PLC,Watsonfurt,Public finally natural.,7183,42485
+609,2025-10-09,Food,Restaurant,3364,Expense,Credit Card,Perez-Smith,West Krystal,Professional fall around serve.,19537,41936
+610,2026-04-02,Travel,Tour,3553,Expense,Cash,Robertson and Sons,Lake William,Generation often.,8791,90373
+611,2026-04-20,Shopping,Electronics,752,Expense,Debit Card,Rowland-Donaldson,Shepardmouth,Together picture.,25686,50278
+612,2026-04-12,Shopping,Electronics,1616,Expense,Debit Card,Shaw LLC,West Peterhaven,May parent environment debate.,18739,58708
+613,2026-05-09,Travel,Flight,1342,Expense,Cash,Brown Ltd,Lake Sandraland,Save author newspaper close.,27084,72802
+614,2026-04-09,Travel,Tour,4400,Expense,Debit Card,Rodriguez-Peterson,North Jamestown,Here she around.,37352,46392
+615,2025-01-16,Shopping,Electronics,1671,Expense,Debit Card,"Love, Simpson and Williams",Reynoldsview,Bad write president.,40696,75796
+616,2025-06-06,Travel,Tour,1173,Expense,Bank Transfer,Roberts-Lee,Smithberg,Enjoy guy.,34456,59515
+617,2026-04-28,Education,Books,1168,Expense,UPI,"Sullivan, Moyer and Hester",Kaylahaven,Major impact near.,49505,49346
+618,2026-03-24,Food,Groceries,4830,Expense,Debit Card,Sullivan-Kent,Port Kimberlyfort,Anything mention.,16332,70005
+619,2026-03-22,Medical,Medicine,4067,Expense,Bank Transfer,Hanson-Andrews,Griffinfort,Born hard.,7665,46380
+620,2025-10-05,Food,Restaurant,1955,Expense,Credit Card,Ramos Inc,North Ronnie,Whether customer seat.,41544,18955
+621,2025-09-11,Education,Courses,1369,Expense,Cash,Hicks-Brown,Gregoryshire,Issue specific wear identify myself.,39389,46879
+622,2025-02-01,Food,Snacks,3762,Expense,UPI,"Johnson, Smith and Baker",New Katieside,Necessary source medical fund.,49116,53297
+623,2025-06-16,Transport,Taxi,666,Expense,Credit Card,Hoover and Sons,Lake Veronicaberg,Arrive none.,40775,56937
+624,2025-09-15,Food,Groceries,4279,Expense,Debit Card,Walter Inc,Bergville,Traditional ability task hit.,34755,72570
+625,2025-02-13,Education,Courses,1062,Expense,Debit Card,Gill LLC,Lake Abigail,Bring trip fight.,20176,37229
+626,2025-04-06,Medical,Health Checkup,3210,Expense,Cash,"Singh, Romero and Farmer",Josephton,Begin outside offer.,10831,29080
+627,2026-02-04,Education,Courses,4439,Expense,UPI,Bryant and Sons,Daniellebury,Despite outside open include.,16855,22718
+628,2026-04-09,Food,Restaurant,4354,Expense,Cash,Boone-Holder,Lewismouth,Rest approach this serve.,40781,87928
+629,2025-10-24,Food,Groceries,4386,Expense,Cash,"Haas, Fox and Miller",East Danielchester,Season admit catch.,5564,66080
+630,2025-03-02,Transport,Bus,792,Expense,Credit Card,"Lin, Anderson and Wells",Lake Dorothy,Development across doctor campaign.,37788,60823
+631,2025-08-25,Travel,Flight,2919,Expense,UPI,"Church, Sullivan and Merritt",North Nicholas,Effect worker maybe statement.,29916,38289
+632,2025-01-15,Income,Freelancing,14066,Income,UPI,"Patterson, Phelps and Bishop",Lake William,Herself person world.,10997,16328
+633,2026-02-10,Food,Snacks,1167,Expense,Bank Transfer,"Roman, Quinn and Jackson",South Lisaton,Authority mention employee military another.,9763,1016
+634,2026-04-27,Travel,Flight,1855,Expense,Cash,Gutierrez Inc,New Dale,Tough interview or ago.,6714,23613
+635,2025-02-27,Medical,Doctor,3804,Expense,Debit Card,"Smith, Patterson and Mcfarland",West Michaelton,Help training.,10132,85642
+636,2025-03-25,Income,Freelancing,33653,Income,Bank Transfer,Stark-Bell,Lake Benjaminfort,Situation executive yeah during.,33574,44360
+637,2025-07-09,Food,Groceries,4389,Expense,Bank Transfer,"Miller, Payne and Wagner",Williambury,Always cover write.,35178,24375
+638,2025-10-25,Shopping,Clothes,4192,Expense,Credit Card,Martin-Harris,Riceshire,Appear important region.,14497,45681
+639,2026-01-07,Medical,Medicine,715,Expense,Bank Transfer,"Smith, Thomas and Hansen",North Jonathonville,Again hand.,21185,86407
+640,2025-01-28,Income,Freelancing,8234,Income,Cash,Clark and Sons,South Deannafort,Back throw number.,10745,95064
+641,2026-01-21,Food,Groceries,1980,Expense,Credit Card,Horton LLC,West Karen,Admit itself along those.,24639,14238
+642,2025-06-26,Education,Stationery,1420,Expense,Cash,"Welch, Davidson and Velez",Shermanberg,Pay bit cause.,18917,29776
+643,2025-10-27,Shopping,Clothes,3873,Expense,Debit Card,"Daugherty, Estrada and Gonzalez",Port Williamburgh,About start medical wait group.,6784,41300
+644,2025-02-10,Education,Stationery,2532,Expense,Credit Card,Wang-Richardson,West Patricia,Behavior grow any away.,10432,40409
+645,2026-03-30,Food,Groceries,2768,Expense,Credit Card,Short Ltd,North Jonathanmouth,Claim human.,16397,62010
+646,2025-06-28,Shopping,Accessories,4069,Expense,Bank Transfer,"Smith, Williams and Vang",Cookborough,He pattern effort law also.,11303,62595
+647,2025-03-29,Food,Snacks,2787,Expense,Credit Card,"Lozano, Johnson and Johnson",Amberton,Trade individual.,19943,30421
+648,2026-04-23,Travel,Tour,2748,Expense,Cash,"Graves, Alvarez and Martinez",Brownport,Personal rule customer share only.,35246,39198
+649,2025-06-05,Income,Salary,21049,Income,Debit Card,Hoover Inc,West Nancyberg,Concern throw save.,32744,16164
+650,2025-04-22,Food,Groceries,1310,Expense,Credit Card,Mendoza Ltd,Juanfort,Gun clearly.,14608,91674
+651,2026-02-06,Education,Stationery,3451,Expense,Bank Transfer,Byrd-Lewis,Port Joshuabury,Science Republican.,39120,79683
+652,2025-05-08,Bills,Electricity,797,Expense,Bank Transfer,"Peck, Williams and Jones",Port Josephbury,City commercial mouth.,10685,43545
+653,2025-05-09,Food,Restaurant,4073,Expense,Cash,Gutierrez-Gardner,Michellemouth,Reach leg hospital.,6196,35834
+654,2025-11-22,Food,Restaurant,192,Expense,UPI,"Smith, Smith and Scott",Rachelfort,During mouth establish.,33353,48989
+655,2025-12-13,Medical,Medicine,2356,Expense,Bank Transfer,Mosley-Patterson,Port Bradley,Perform child follow.,32731,3823
+656,2025-04-12,Income,Freelancing,43551,Income,Bank Transfer,"Caldwell, Nelson and Cole",Kimberlyshire,Performance impact himself guy.,44483,5278
+657,2026-01-15,Education,Courses,3221,Expense,UPI,Green and Sons,North Alexanderburgh,Radio key travel.,8048,96286
+658,2026-04-15,Food,Restaurant,3995,Expense,UPI,Harris-Austin,Turnermouth,My despite water born.,42678,29780
+659,2025-09-06,Bills,Internet,263,Expense,Credit Card,Williams-Morris,Calvinfurt,White way there.,17029,56809
+660,2025-01-21,Transport,Bus,2465,Expense,UPI,Tucker-Brown,Samanthaland,Hope usually but.,39709,73298
+661,2026-02-18,Bills,Internet,3392,Expense,Cash,Holden-Nunez,Brownfort,Employee bank require.,49608,29911
+662,2026-01-06,Shopping,Accessories,2269,Expense,Bank Transfer,Roberts-Harrington,Stevetown,Available hair.,18437,84895
+663,2025-08-13,Bills,Electricity,610,Expense,UPI,Mcintyre-Reyes,Meganmouth,He head woman nothing.,33582,94395
+664,2026-03-22,Transport,Taxi,1500,Expense,Cash,Stevens-Lawrence,Lindaberg,Hundred read analysis apply.,37217,37492
+665,2026-01-24,Income,Freelancing,23405,Income,Bank Transfer,"Smith, Bell and Flores",Port Robertborough,Now quickly.,33605,3192
+666,2025-10-07,Transport,Taxi,907,Expense,Cash,Booth PLC,West Deborah,Movement agency sign.,23528,26985
+667,2026-03-07,Education,Courses,624,Expense,Bank Transfer,Moses LLC,Loribury,Student security someone message magazine.,21143,36098
+668,2025-01-03,Shopping,Clothes,1755,Expense,Credit Card,"Mason, Sampson and Thompson",Port Lauren,How seat international.,19098,9060
+669,2026-02-18,Bills,Water,878,Expense,Cash,Berg Group,Jamesshire,Cost speak six north.,12744,14334
+670,2025-06-19,Medical,Medicine,1461,Expense,Debit Card,"Kent, Lopez and Barnes",West Denise,Quickly now least entire.,19883,80669
+671,2025-03-07,Shopping,Clothes,1225,Expense,Debit Card,Johnson-Lynch,Khanport,End so.,47502,60264
+672,2025-12-08,Entertainment,Games,4944,Expense,Bank Transfer,Allen Inc,Hendersonberg,Agree light agency.,45661,97855
+673,2025-02-18,Travel,Hotel,4408,Expense,Cash,Saunders-Mclean,Kristinport,Worker laugh.,9197,35282
+674,2025-10-04,Entertainment,Games,3651,Expense,Cash,Weber LLC,New Rhondaland,Draw away want.,42306,96798
+675,2026-04-03,Shopping,Clothes,1578,Expense,Cash,Morrison-Brown,Sarahshire,Until sit share.,24677,14377
+676,2025-09-16,Transport,Bus,3751,Expense,UPI,"Garcia, Garcia and Aguilar",Birdton,Environmental sign live while central.,38787,91199
+677,2025-05-25,Medical,Doctor,1037,Expense,Debit Card,Estrada-Garcia,North Henryburgh,Ability late could car hotel.,34616,65350
+678,2026-04-21,Travel,Flight,1304,Expense,Bank Transfer,Walker-Smith,Juanside,Report building with off.,13550,63331
+679,2025-06-27,Shopping,Accessories,2559,Expense,Bank Transfer,Schultz Group,East Johnchester,Ago data.,42285,8553
+680,2025-01-24,Income,Freelancing,26397,Income,Bank Transfer,"Davis, Savage and Ponce",Port Richard,Travel everyone move drive any.,10133,68139
+681,2025-08-18,Food,Groceries,3148,Expense,Bank Transfer,"Espinoza, Patterson and Dougherty",Brianburgh,International hotel resource threat.,32420,7342
+682,2025-01-28,Travel,Tour,3902,Expense,UPI,Ward-Bell,Leahbury,Off artist.,41301,45707
+683,2025-01-28,Education,Stationery,684,Expense,Credit Card,Zimmerman-Cunningham,Freemanville,Account available key foot.,39987,40933
+684,2025-12-16,Travel,Hotel,3915,Expense,Debit Card,Collins-Simpson,Andrewberg,Yeah visit family.,15370,19996
+685,2025-07-14,Education,Courses,1678,Expense,Debit Card,"Hayes, Spencer and Kelly",East Daniel,Practice every eight build.,30559,71143
+686,2025-03-16,Medical,Medicine,2664,Expense,Bank Transfer,"Duffy, Castillo and Mcdonald",East Oliviaport,Few stop drop study.,45361,18202
+687,2025-05-12,Transport,Bus,2419,Expense,Bank Transfer,Copeland and Sons,South Melissaville,Along during majority draw.,24257,50552
+688,2025-07-03,Entertainment,Movies,2919,Expense,Credit Card,"Crawford, Cannon and Norman",Lucasland,There edge usually.,35498,78175
+689,2025-08-11,Bills,Water,2922,Expense,UPI,Brooks-Mack,Ewingview,Few network black friend.,36564,87866
+690,2026-01-17,Shopping,Accessories,4466,Expense,Debit Card,"Mercado, Torres and Michael",Lake Lori,General seem guy.,29438,70086
+691,2025-03-21,Entertainment,Games,2460,Expense,Credit Card,Smith Group,Reevesfort,View these.,7184,15416
+692,2025-07-14,Transport,Taxi,1158,Expense,UPI,Castro-Brown,North Christopherhaven,Material show.,8865,71171
+693,2025-07-06,Transport,Fuel,4837,Expense,Credit Card,Thomas LLC,Bradleyview,Sing born cut.,15437,39866
+694,2025-09-30,Bills,Internet,1993,Expense,Bank Transfer,Sanders LLC,Port Dean,Assume laugh election.,25397,85991
+695,2026-02-21,Entertainment,Movies,2262,Expense,Cash,Gordon and Sons,Danielfort,Authority card.,32928,37165
+696,2025-02-09,Medical,Medicine,962,Expense,Credit Card,Novak Ltd,Port Joseph,Race line where happy line.,27037,9123
+697,2025-01-04,Entertainment,Games,2454,Expense,Credit Card,Ortiz-Thompson,North Richard,Space seat include significant.,33063,62549
+698,2026-05-12,Transport,Taxi,2789,Expense,Cash,"Patton, Hamilton and Romero",New Andreafort,Go every woman.,33691,98057
+699,2025-04-22,Income,Freelancing,27592,Income,Bank Transfer,Phillips and Sons,Wrightland,Town type opportunity lead.,36449,53081
+700,2025-09-25,Entertainment,Games,2089,Expense,Credit Card,Olson Inc,Grahamberg,Group low deal early main.,19885,63847
+701,2025-10-07,Travel,Flight,4903,Expense,Debit Card,Barr Group,New James,Onto give.,18721,94280
+702,2025-07-17,Travel,Hotel,604,Expense,Cash,Herrera-Tucker,Cherylhaven,Also lead interest indicate.,22838,86358
+703,2025-11-17,Shopping,Electronics,2408,Expense,Bank Transfer,Wells Group,Port Ashleyview,Entire dream partner somebody popular.,47026,32608
+704,2026-05-04,Income,Salary,25347,Income,Debit Card,Ramirez Group,Mariahchester,Set million.,12114,2341
+705,2025-04-21,Transport,Fuel,3688,Expense,Credit Card,Harding and Sons,Sheilaview,If throughout interesting.,19096,40722
+706,2025-11-02,Education,Courses,2977,Expense,Cash,Juarez Group,East Tanya,Really who wrong.,30198,22776
+707,2025-07-12,Bills,Electricity,1400,Expense,UPI,Ortiz Ltd,Deannatown,Organization world it shake through.,11129,39949
+708,2025-05-09,Entertainment,Streaming,1336,Expense,Debit Card,Daugherty-Johnson,North Karenbury,Especially how black.,40029,18183
+709,2025-08-15,Shopping,Accessories,3867,Expense,Credit Card,Harper-Martinez,New Robert,Floor article.,16651,19777
+710,2025-02-05,Travel,Hotel,644,Expense,UPI,"Cooper, Rodriguez and Harris",East Richardbury,Feeling dinner young choice wear.,44879,2446
+711,2025-09-02,Shopping,Clothes,2105,Expense,Credit Card,Davis-Stephens,New Chelseachester,Usually situation feeling message.,6188,37314
+712,2026-02-28,Bills,Electricity,4705,Expense,Bank Transfer,Simmons-Jensen,Jonesmouth,Very another task loss.,21516,18534
+713,2025-04-27,Travel,Hotel,157,Expense,Cash,Young-Wang,East Mallory,Include official deal assume.,37308,42313
+714,2025-08-25,Education,Courses,1542,Expense,Debit Card,Hernandez-Cox,North Michaelstad,Election many front drop.,48477,72437
+715,2025-12-10,Shopping,Electronics,4216,Expense,Cash,Sharp-Scott,South Lindafurt,Mission develop agree.,42284,13287
+716,2025-09-06,Food,Snacks,3573,Expense,Credit Card,Page-Pace,Comptonbury,Partner collection raise.,11092,90449
+717,2025-06-23,Travel,Flight,4824,Expense,Debit Card,Stokes PLC,South Sandra,Last attorney picture someone.,43681,45250
+718,2025-11-28,Transport,Taxi,1085,Expense,Cash,Mendez-Carr,East John,Action local front.,17450,63809
+719,2025-08-27,Travel,Hotel,789,Expense,Credit Card,Rodriguez Inc,Port Davidville,Perhaps recently western.,32258,8777
+720,2025-06-23,Food,Groceries,4009,Expense,Bank Transfer,Doyle Ltd,Melindaburgh,As door fight.,44573,77405
+721,2026-02-01,Medical,Doctor,2813,Expense,Credit Card,"Stewart, Zimmerman and Smith",North Mathewtown,World pull.,32056,3119
+722,2025-01-01,Shopping,Clothes,1832,Expense,Debit Card,Weber PLC,Heatherstad,Check possible.,41483,13656
+723,2025-05-29,Food,Groceries,2267,Expense,Bank Transfer,"Ramirez, Turner and Lewis",New Courtney,Class help approach section hard.,40909,53336
+724,2025-06-02,Travel,Hotel,1621,Expense,Cash,Diaz Group,Stephaniehaven,Involve large state policy past.,21932,54445
+725,2025-08-11,Medical,Doctor,2725,Expense,Credit Card,Hoover-Thomas,Hamiltonland,Industry glass.,34037,18850
+726,2025-06-13,Medical,Doctor,2526,Expense,Cash,"Kemp, Simpson and Burke",West Kathleenhaven,Respond one author determine claim.,11979,92575
+727,2025-07-03,Shopping,Electronics,2467,Expense,UPI,"King, Sanchez and Williams",Ortizland,Light issue fund city personal.,24645,23836
+728,2025-07-22,Education,Books,1252,Expense,Bank Transfer,Green Inc,East Kenneth,Probably raise player.,49242,82084
+729,2026-01-22,Bills,Internet,2629,Expense,Credit Card,"Jimenez, Miller and Smith",Ballshire,Fill reach power cell.,19242,95304
+730,2026-03-22,Transport,Fuel,4408,Expense,Cash,Becker-Olson,Kimberlyside,Give beyond student agent.,13722,37519
+731,2025-06-13,Bills,Water,1357,Expense,Debit Card,"Bradley, Herring and Bentley",Kevinshire,Concern along short everybody.,26493,31317
+732,2025-05-02,Entertainment,Movies,571,Expense,Cash,"Gonzalez, Ray and Hardin",Lake Paulfurt,Nothing body.,42448,95499
+733,2025-09-22,Medical,Health Checkup,3140,Expense,Debit Card,Clark-Hill,West Kimberly,Argue reveal whom.,44180,53392
+734,2025-03-18,Medical,Doctor,72,Expense,Credit Card,Roberts LLC,Woodsland,Hour analysis exist catch.,24186,20791
+735,2026-02-11,Travel,Tour,1363,Expense,Cash,Wilson-Cherry,Kyleville,Born book total.,39974,98115
+736,2025-01-23,Food,Groceries,3188,Expense,UPI,Murphy-Hansen,Sandrabury,Main moment piece take.,26662,3698
+737,2025-12-19,Shopping,Accessories,4518,Expense,UPI,Hernandez-Williams,Christopherport,Strategy lawyer husband real give.,33130,25331
+738,2026-05-14,Shopping,Electronics,3947,Expense,Credit Card,"Sellers, Duncan and Mann",West Matthewshire,Stop yet prepare join yet.,35133,22376
+739,2025-07-12,Medical,Health Checkup,3694,Expense,UPI,"Rosales, Sharp and Ortiz",Scottmouth,Might record great avoid sea.,38337,27757
+740,2025-10-01,Shopping,Accessories,3061,Expense,Debit Card,"Donovan, Turner and Hammond",Briannaland,Expect just thing around affect.,49015,58997
+741,2025-09-22,Medical,Health Checkup,184,Expense,Bank Transfer,Hansen and Sons,North Yolandaborough,Thought write statement public none.,14794,94801
+742,2026-02-11,Travel,Flight,1557,Expense,Credit Card,Young Ltd,West Kellychester,Enter order material term.,24173,66836
+743,2025-01-27,Food,Snacks,64,Expense,Bank Transfer,"Scott, Craig and James",Stephaniebury,Traditional thank fish weight citizen.,36268,87628
+744,2025-02-24,Shopping,Accessories,753,Expense,Bank Transfer,Hernandez Ltd,Port Jerry,Admit effect travel what.,13237,6882
+745,2025-03-11,Income,Freelancing,6934,Income,Bank Transfer,Velez-Edwards,South Michael,More treat wonder while.,35717,9547
+746,2026-01-12,Education,Courses,4688,Expense,Credit Card,"Bennett, Gray and Bennett",West Dakotaland,Cause customer green anyone.,42917,40778
+747,2025-09-22,Travel,Hotel,2260,Expense,Debit Card,Jones Group,Johnborough,Need top truth yard.,7949,24648
+748,2025-09-03,Education,Courses,3333,Expense,Debit Card,"Leon, Andrews and Williams",Donnamouth,Have seem.,17169,21352
+749,2025-08-04,Travel,Hotel,3411,Expense,Credit Card,"Dennis, Gordon and Taylor",Cameronchester,Along interview bring minute.,43024,75984
+750,2025-12-18,Travel,Flight,2820,Expense,Bank Transfer,"Hoover, Baker and Taylor",Port Daniellehaven,New person present ready.,17464,92161
+751,2025-07-11,Food,Snacks,4670,Expense,Credit Card,"Baker, Mitchell and Murphy",Lake Brittany,Professional public today.,49492,55262
+752,2025-12-03,Bills,Electricity,4488,Expense,Debit Card,Roberts-Henry,East Maryport,Commercial everything hospital.,32590,30053
+753,2025-07-22,Travel,Hotel,4898,Expense,Credit Card,"Walker, Walsh and Morgan",Lake Patrick,Use my build.,26427,13243
+754,2025-01-25,Travel,Tour,3090,Expense,UPI,"Simpson, Johnson and Wilson",New Jasmineborough,That memory floor beyond cold.,22731,89505
+755,2025-03-13,Transport,Taxi,3928,Expense,Credit Card,Smith-Bennett,Avilaburgh,Hotel put toward break he.,5018,97390
+756,2025-02-15,Education,Books,1043,Expense,Bank Transfer,"Clark, Jones and Allison",Lake Paulshire,Hope deal impact discuss.,12611,50789
+757,2025-07-03,Education,Courses,255,Expense,Debit Card,Torres and Sons,Jennifermouth,Church card wait ask.,8344,76725
+758,2025-04-30,Education,Courses,1810,Expense,Credit Card,Chavez-Cook,Bellfurt,Improve song.,15592,94739
+759,2025-10-21,Travel,Flight,1962,Expense,Credit Card,"Edwards, Larson and Ortega",East Antonio,Truth former blue.,46788,97175
+760,2025-09-26,Shopping,Electronics,1622,Expense,UPI,"Perkins, Gonzalez and Jordan",Lake Amandaborough,Case white military glass how.,47446,85017
+761,2025-07-21,Travel,Tour,4853,Expense,Cash,"Rollins, Lee and Colon",Karenfurt,Type future member product.,24285,9724
+762,2025-09-25,Shopping,Accessories,1503,Expense,Debit Card,Little PLC,West Dianashire,News sea wide.,20403,48366
+763,2025-10-12,Shopping,Electronics,3281,Expense,UPI,"Ramirez, Terrell and Diaz",South Davidmouth,Budget cause skill perform.,20800,80219
+764,2025-07-25,Food,Snacks,792,Expense,Debit Card,"Mcclure, Johnson and Martin",New Thomasside,Next morning sometimes break control.,26983,78444
+765,2025-04-14,Food,Restaurant,4060,Expense,Cash,Hernandez PLC,Danielchester,Change imagine worry.,17136,30548
+766,2026-04-16,Entertainment,Games,2362,Expense,Bank Transfer,Jackson-Wagner,North Oliviamouth,Hand old them ten.,18253,99942
+767,2025-04-03,Shopping,Electronics,4269,Expense,UPI,Chen-Macias,North Rachel,Mean gun dark factor policy.,20411,57495
+768,2025-06-10,Education,Stationery,609,Expense,Credit Card,"Walton, Oneill and Lopez",North Brandon,Data civil blue anyone.,32210,43786
+769,2025-11-04,Medical,Health Checkup,3801,Expense,Bank Transfer,Juarez Ltd,Port Johnport,Guy old deep.,42014,86500
+770,2026-04-23,Food,Groceries,3655,Expense,UPI,"Humphrey, Scott and Lynch",Martinezfort,Economy foreign window specific painting.,7541,58502
+771,2026-05-08,Medical,Health Checkup,1255,Expense,Bank Transfer,"Martin, Duncan and Roberson",Larryborough,Cover from man fund.,5678,58833
+772,2025-07-28,Shopping,Clothes,2849,Expense,Bank Transfer,"Nelson, Woods and Khan",South Anne,Almost movement person decision.,16879,40473
+773,2025-08-15,Medical,Health Checkup,2083,Expense,Credit Card,Newton PLC,New Amy,The sit.,46168,10056
+774,2026-04-05,Income,Scholarship,8291,Income,Credit Card,Ruiz Group,East Samanthafurt,Agree provide alone become camera.,45540,34814
+775,2025-11-21,Education,Books,1756,Expense,UPI,Stafford-Foster,Weavermouth,Born still teacher free determine.,24102,53051
+776,2025-08-26,Shopping,Clothes,3546,Expense,Credit Card,Serrano-Larson,North Ruthberg,Find throughout end here.,37376,17481
+777,2025-04-21,Transport,Bus,3619,Expense,UPI,"Gordon, Lambert and Reeves",Benjamintown,Together traditional.,33971,14225
+778,2026-02-07,Education,Books,2490,Expense,UPI,Rivas-Hunter,Aguirreberg,Money clearly mother.,11411,55331
+779,2025-03-14,Travel,Tour,3642,Expense,Bank Transfer,"Allen, Williams and Murphy",West Veronica,Remain quickly successful art play.,25218,15194
+780,2025-07-08,Travel,Tour,2481,Expense,Bank Transfer,"Gonzalez, Lee and Arnold",Lake Timothyton,Firm from.,46075,41661
+781,2025-10-05,Travel,Tour,1209,Expense,Bank Transfer,"Strickland, Perez and Clark",Gregorymouth,Serious prepare answer administration.,34316,46174
+782,2025-07-24,Shopping,Clothes,3723,Expense,Debit Card,"Goodman, Chung and Wu",Kyleville,Program newspaper western green.,26793,38712
+783,2025-09-11,Bills,Internet,4452,Expense,Cash,"Fritz, Tucker and Watson",South Kathrynfort,Staff establish paper.,10615,43805
+784,2026-02-28,Travel,Flight,833,Expense,Debit Card,Reilly-Brown,Leechester,Trade agree plan.,34897,38104
+785,2026-01-05,Travel,Tour,4913,Expense,Credit Card,Hamilton Ltd,North Elaine,Impact treat the simply.,37879,99987
+786,2026-05-03,Shopping,Accessories,2124,Expense,Cash,Johnson-Campbell,North Timothy,View director institution exist.,48250,46196
+787,2025-08-04,Income,Freelancing,26810,Income,Debit Card,Allison-Williams,Donnahaven,Role want picture door.,33892,73421
+788,2025-06-29,Transport,Taxi,3120,Expense,Credit Card,Williams Ltd,Kramerstad,Almost official condition discuss.,30002,67121
+789,2026-03-06,Income,Freelancing,8537,Income,UPI,Gibbs and Sons,Rodriguezmouth,Range page.,30447,91974
+790,2025-10-25,Food,Restaurant,4033,Expense,UPI,"Ward, Castillo and Armstrong",Allenfort,Tough indicate.,33959,70051
+791,2026-04-02,Income,Salary,24289,Income,Debit Card,"French, Taylor and Simpson",New Michellestad,Nature television finally.,14788,87669
+792,2025-04-15,Entertainment,Movies,4105,Expense,Cash,"Carter, Swanson and Reese",West Teresa,Vote low process reason be.,5986,6976
+793,2026-02-17,Shopping,Accessories,4029,Expense,UPI,White-Ruiz,Solomontown,Mother during.,9861,88284
+794,2025-09-17,Entertainment,Games,2587,Expense,Credit Card,Hill Group,Port Lindaside,Case movement take TV.,23583,3497
+795,2026-04-27,Shopping,Clothes,2283,Expense,Debit Card,Ferguson Ltd,East Lindashire,Myself truth deep prepare.,9401,70298
+796,2025-01-08,Travel,Hotel,4862,Expense,Cash,Obrien-Phillips,Porterbury,Bag within likely.,10919,29149
+797,2026-01-01,Education,Courses,2647,Expense,Bank Transfer,Armstrong LLC,South Gregoryfurt,Certain foreign when.,48835,32078
+798,2026-03-22,Shopping,Clothes,2818,Expense,Cash,"Kelly, Harris and Hopkins",Gallagherbury,Lay measure event.,6471,10478
+799,2025-03-19,Food,Snacks,1284,Expense,Bank Transfer,Smith-Guzman,Michelleland,Describe close.,23438,68805
+800,2026-02-23,Income,Scholarship,26932,Income,UPI,"Todd, Chambers and Blair",West Christopherside,Brother response.,28571,59750
+801,2025-04-19,Food,Groceries,2239,Expense,Credit Card,Simpson Inc,Davidland,While last.,7404,74546
+802,2025-04-13,Shopping,Accessories,3045,Expense,Debit Card,Reid-Bailey,Hardyview,Professional girl situation season deep.,16785,67147
+803,2025-08-02,Entertainment,Games,4570,Expense,Debit Card,Chan-Kirby,Steveview,Real age responsibility size.,29809,88920
+804,2026-05-11,Transport,Taxi,304,Expense,Bank Transfer,Jackson and Sons,Oliviamouth,Example south myself.,14665,98579
+805,2025-10-07,Travel,Flight,4304,Expense,Credit Card,"Peters, Roberson and Medina",Jimenezville,Lose he wife age better.,47202,73393
+806,2025-10-13,Bills,Electricity,1704,Expense,Credit Card,Hill Group,North Gail,Special them state.,7205,76269
+807,2025-08-29,Income,Freelancing,30923,Income,UPI,Turner-Schmitt,Lake Andrewfurt,Factor color program pattern set.,7579,32395
+808,2025-10-05,Food,Restaurant,3529,Expense,Bank Transfer,Johnson Group,New Alicia,Of education when begin behind.,45871,19899
+809,2025-12-31,Shopping,Accessories,1050,Expense,Debit Card,Jones and Sons,West Nancybury,East song plant.,20929,54632
+810,2025-11-28,Income,Salary,7779,Income,Cash,"Anderson, Williams and Oliver",Coxside,Air throw ball matter speak.,12169,45513
+811,2026-04-06,Bills,Water,2312,Expense,Cash,Blevins-Bridges,South Denise,Start couple.,13157,64867
+812,2025-08-02,Income,Scholarship,26756,Income,Debit Card,Chandler-Colon,Port Amandaton,Letter quality wonder someone local.,7633,91108
+813,2025-08-14,Transport,Taxi,2431,Expense,Cash,"Mack, Estrada and Glenn",Pattersonfort,Special economy on reach.,29534,53754
+814,2025-02-14,Food,Restaurant,4704,Expense,Debit Card,"Williams, Villarreal and Ray",Ericksonville,Threat player those about beautiful.,24320,76851
+815,2025-08-30,Entertainment,Games,2119,Expense,Debit Card,"Hanson, Brown and Lopez",Port Rachelchester,Magazine room.,47789,13727
+816,2025-12-15,Bills,Electricity,3091,Expense,Bank Transfer,Frederick Inc,West Amber,Question at alone.,35353,26674
+817,2026-03-16,Income,Salary,34441,Income,Bank Transfer,Edwards and Sons,Port Victoriamouth,View civil agree.,23571,28127
+818,2026-02-20,Shopping,Electronics,3569,Expense,UPI,Cruz Group,Grantville,Improve why suggest argue.,6637,33750
+819,2025-08-07,Income,Freelancing,31869,Income,Cash,Wong PLC,Hollyburgh,Specific health culture.,9979,54597
+820,2025-01-23,Entertainment,Games,3472,Expense,Debit Card,"Lee, Boyer and Harrell",North Karen,Money it.,5551,32520
+821,2025-11-26,Medical,Doctor,2614,Expense,Bank Transfer,"Mcknight, Gomez and Pacheco",Port Maryside,Simply ahead power.,36472,74655
+822,2025-04-17,Shopping,Electronics,552,Expense,UPI,Miller-Brooks,Jamesbury,Guy image before return.,30460,94925
+823,2026-05-16,Food,Snacks,2170,Expense,Debit Card,Montgomery-Patton,Marieport,Seem benefit listen.,41694,91599
+824,2025-05-19,Travel,Flight,2531,Expense,UPI,Harper-Flores,Smithfurt,Change such watch family.,46431,86206
+825,2025-03-28,Bills,Water,251,Expense,Credit Card,"Mills, Arnold and Rivera",Port Christinechester,Parent dinner.,8725,6763
+826,2026-01-27,Medical,Health Checkup,1341,Expense,UPI,Jones-Whitney,South Michaelport,Science require.,28677,75385
+827,2025-05-06,Travel,Tour,4676,Expense,Credit Card,Ward LLC,Sheilaport,Discover doctor.,30269,43405
+828,2025-12-24,Transport,Bus,957,Expense,Credit Card,Hansen PLC,New Jeremy,Detail upon property assume.,11945,27663
+829,2026-01-19,Medical,Doctor,3938,Expense,Cash,White-Torres,Lisabury,Close large professional case.,44960,67702
+830,2025-02-12,Entertainment,Movies,4439,Expense,Credit Card,"Carson, Hensley and Robinson",Lake Brooke,Yet section voice who.,28134,85813
+831,2025-10-17,Medical,Doctor,779,Expense,Credit Card,Thompson Inc,Williamsfurt,Your alone meeting.,11716,40424
+832,2025-12-19,Bills,Internet,710,Expense,Bank Transfer,Melendez LLC,Taraland,Imagine none fact.,19942,21392
+833,2025-03-13,Travel,Hotel,3463,Expense,Debit Card,Welch LLC,Williamsbury,Herself level writer season.,46081,63627
+834,2025-09-24,Transport,Bus,1446,Expense,UPI,"Martin, Davis and Austin",Gabrielburgh,Out memory their.,49698,29607
+835,2025-02-05,Education,Books,368,Expense,Debit Card,Arnold LLC,North Kristafurt,Bed risk take beautiful project.,15264,41406
+836,2026-05-07,Education,Stationery,1167,Expense,Bank Transfer,"Clark, Wright and Rodriguez",Jonathanhaven,Charge both space bring.,12013,83066
+837,2025-09-06,Bills,Electricity,2053,Expense,Bank Transfer,Conner-Watson,Port Amy,Table perhaps especially.,13056,23860
+838,2025-10-09,Shopping,Accessories,1591,Expense,Debit Card,"Huff, Roberts and Murphy",Jennifermouth,Lead reach work nice.,23984,48659
+839,2026-05-09,Income,Scholarship,20900,Income,Cash,"Obrien, Thomas and Moore",Wattsfort,Officer reach.,36806,49649
+840,2025-03-05,Income,Salary,10609,Income,Bank Transfer,Shepard-Brown,Robertsonberg,Specific because deal.,49409,62268
+841,2025-05-10,Entertainment,Games,4175,Expense,Credit Card,"Davis, Brown and Flowers",Marthachester,Answer everybody series girl realize.,26543,76618
+842,2025-11-02,Food,Snacks,3325,Expense,Debit Card,Hoffman and Sons,East Sarafurt,Close these more measure country.,48663,76020
+843,2025-02-06,Entertainment,Streaming,1650,Expense,Bank Transfer,Barnes Ltd,Jefferyport,Case edge suffer.,43007,65838
+844,2025-04-16,Transport,Bus,3895,Expense,Bank Transfer,Webb-Dalton,Lake Shawn,Ago never various.,37984,60487
+845,2025-05-21,Travel,Hotel,2823,Expense,Credit Card,Leonard Inc,Pricemouth,Event leader nice.,15207,15246
+846,2026-01-28,Transport,Fuel,493,Expense,Cash,Hall Ltd,Cassidyborough,Enter light.,46160,29129
+847,2026-01-11,Shopping,Clothes,2094,Expense,Debit Card,Cox Inc,Port Davidstad,Indeed nation station.,34583,62637
+848,2025-02-27,Shopping,Clothes,466,Expense,Debit Card,"Kim, Gonzalez and Gonzalez",New Vincent,Most movement close education.,19745,92223
+849,2026-01-27,Shopping,Electronics,2126,Expense,Bank Transfer,Blake-Spence,East Madelinefort,Fall have tend enter section.,5444,96349
+850,2025-09-06,Medical,Doctor,2016,Expense,Cash,"Hunt, Long and Hernandez",South Thomasville,Cultural economic computer true simple.,17305,34160
+851,2025-11-23,Shopping,Accessories,4355,Expense,Debit Card,"Hess, Pearson and Parker",Williamsstad,Dinner PM choose.,42225,10722
+852,2025-03-29,Shopping,Accessories,757,Expense,Debit Card,"Martinez, Vazquez and Rodriguez",Darrellfort,Could move meeting officer prepare.,31876,79848
+853,2025-07-17,Bills,Water,1812,Expense,Debit Card,"Jackson, Wright and Stevenson",Brookshaven,Once should student day subject.,6754,40184
+854,2025-04-11,Food,Snacks,862,Expense,Credit Card,"Whitehead, King and Burgess",Haleburgh,Down describe yeah.,13201,72665
+855,2026-01-11,Food,Groceries,4993,Expense,Bank Transfer,Fritz-Booth,Roachmouth,Heart floor begin morning Democrat.,28158,65460
+856,2025-06-15,Bills,Water,446,Expense,UPI,Wolf and Sons,South Jefferyside,Hope up.,33656,36736
+857,2025-06-05,Medical,Health Checkup,2394,Expense,Cash,Salazar Group,South Paulshire,Put cover perform account energy.,14383,33805
+858,2025-08-29,Medical,Medicine,1487,Expense,Credit Card,Hernandez Inc,Morrowmouth,Attack realize create.,41622,21997
+859,2025-11-04,Transport,Bus,53,Expense,Cash,"Farmer, Hood and Fletcher",Laurabury,Country bed rich case.,48087,99460
+860,2025-06-20,Entertainment,Streaming,2233,Expense,Credit Card,Cole and Sons,West Brandon,Also traditional and.,25507,84340
+861,2026-04-12,Food,Restaurant,3001,Expense,Debit Card,Cunningham-Lopez,West Danielleburgh,Most message church sea.,10754,33875
+862,2025-08-13,Income,Salary,13912,Income,Debit Card,Dalton-Sullivan,East Daniel,Really watch chance office.,15822,56104
+863,2025-10-12,Income,Scholarship,33690,Income,Credit Card,Lee-Bradford,South Lisa,Form in local camera.,32385,78988
+864,2026-04-04,Entertainment,Streaming,3502,Expense,Cash,Newman Ltd,Hurleyhaven,Range focus boy Democrat single.,24568,13408
+865,2026-03-16,Shopping,Accessories,1660,Expense,UPI,"Walker, Morgan and Lloyd",Sarahtown,Purpose quite international paper this.,21930,78567
+866,2025-10-17,Shopping,Electronics,4808,Expense,Cash,Garcia Ltd,East Shaneview,Ball strong hold thousand.,20843,19086
+867,2025-03-18,Transport,Bus,262,Expense,UPI,Gonzales-Porter,North Sallyville,Too about feeling same.,13257,69134
+868,2025-08-04,Entertainment,Streaming,1719,Expense,UPI,Gray and Sons,Bethside,Watch be nation too.,31828,19615
+869,2025-05-20,Travel,Tour,1647,Expense,Cash,"Weaver, Reed and Parker",Ryanbury,Bill opportunity short.,7638,31567
+870,2025-08-01,Entertainment,Movies,2884,Expense,UPI,"Davis, Wade and Roberts",North William,Street subject long receive.,18651,18410
+871,2025-06-17,Education,Stationery,814,Expense,Cash,"Hopkins, Lopez and Elliott",Lake Daniel,American purpose analysis.,30926,95105
+872,2025-10-16,Income,Freelancing,13196,Income,Bank Transfer,"Benton, Johnston and Dixon",South Tammyborough,Wonder soon successful.,7946,20511
+873,2026-03-10,Food,Snacks,1030,Expense,Debit Card,Flores PLC,West Kimberlyland,Either scientist system weight.,32937,52003
+874,2026-03-02,Bills,Internet,3148,Expense,UPI,"Turner, Schmidt and Morrison",Briggschester,Remember personal shoulder.,10641,29940
+875,2025-01-23,Travel,Hotel,2485,Expense,UPI,"Chapman, Fox and Murphy",West Edwardshire,Car knowledge voice trip.,31477,64163
+876,2025-01-19,Transport,Bus,1997,Expense,Cash,King-Watson,Jeremyport,Notice night return.,8588,8777
+877,2025-03-10,Shopping,Electronics,4478,Expense,Bank Transfer,Adams-Johnson,East Patricia,Answer just traditional who.,25994,33200
+878,2025-01-10,Entertainment,Movies,1651,Expense,UPI,Kim-Romero,Millerstad,Chair practice to debate trade.,20229,67603
+879,2025-08-06,Shopping,Electronics,707,Expense,Debit Card,Martin Group,Masonfort,Call we television.,30075,56126
+880,2025-03-25,Entertainment,Streaming,2825,Expense,Cash,"Sweeney, Benitez and Gonzalez",Reyesshire,Woman Republican occur.,27266,11197
+881,2026-05-03,Medical,Health Checkup,1517,Expense,Debit Card,"Skinner, Gardner and Sharp",Jameshaven,Dream appear single.,27433,43349
+882,2025-05-14,Medical,Medicine,407,Expense,Bank Transfer,"Simmons, Brown and Novak",West Tinaside,Daughter drop.,44591,18059
+883,2025-02-18,Travel,Hotel,4951,Expense,UPI,Young Inc,Lindseyview,Number oil rate nor think.,41992,64180
+884,2025-07-11,Transport,Bus,870,Expense,Credit Card,"Hurley, Ramos and Clark",Justinbury,Tough growth ability same.,25524,77446
+885,2025-06-17,Entertainment,Games,2953,Expense,Bank Transfer,Mora-Bradley,Marvinburgh,That upon tough Democrat.,9253,95195
+886,2026-04-01,Bills,Internet,1249,Expense,UPI,Myers-Decker,Charleschester,Small say performance.,32672,46789
+887,2025-09-14,Food,Snacks,3268,Expense,Debit Card,"Daniels, Chavez and Stevens",Millerfurt,Stuff rate.,47833,92403
+888,2025-07-13,Shopping,Accessories,3016,Expense,Bank Transfer,Rangel-Hopkins,Karenview,Spring body professional sit.,16056,62735
+889,2026-02-10,Entertainment,Movies,213,Expense,Credit Card,"Martinez, Johnson and Johnson",Webermouth,Two read director.,25779,40365
+890,2025-07-31,Food,Groceries,2785,Expense,Bank Transfer,Barron PLC,Ginastad,For hard under top.,46855,51463
+891,2025-03-25,Food,Snacks,2616,Expense,Bank Transfer,Greene PLC,Allenberg,Car religious should image.,39734,31243
+892,2025-03-04,Income,Scholarship,30400,Income,Debit Card,"Fowler, Roberts and Rogers",Lake Ryan,Personal open western forward building.,8785,67479
+893,2025-05-23,Entertainment,Streaming,4353,Expense,UPI,Garrett LLC,New Anna,Station although recent seek themselves.,27626,30908
+894,2025-01-15,Education,Books,4430,Expense,Cash,Douglas PLC,Powellborough,Action role music begin chance.,34622,28338
+895,2025-06-29,Entertainment,Games,4462,Expense,Cash,Wright-Williams,West Andrewport,Doctor blue well your.,30593,59493
+896,2025-05-30,Shopping,Electronics,912,Expense,Credit Card,Nguyen Inc,Adamberg,At mean marriage.,15407,27304
+897,2025-06-19,Medical,Doctor,1710,Expense,Bank Transfer,Clay Ltd,New Cassandra,Stuff a at lot.,20069,69784
+898,2026-03-17,Entertainment,Streaming,309,Expense,Credit Card,Mccarthy and Sons,Courtneyport,Affect personal hear.,28252,51459
+899,2025-07-01,Transport,Fuel,3238,Expense,Bank Transfer,Williams Ltd,South Juliafort,Gas action remember.,28701,78034
+900,2025-03-01,Bills,Electricity,4558,Expense,Debit Card,"Smith, Brown and Glover",New Kiara,Middle blue during.,8347,22411
+901,2025-01-17,Travel,Tour,2810,Expense,Debit Card,Johnson-Kennedy,North Amberhaven,Plant physical company.,14259,64727
+902,2025-01-20,Education,Stationery,4684,Expense,Debit Card,Johnson Inc,Ashleyberg,Say detail region start.,17580,17932
+903,2025-01-11,Entertainment,Movies,4165,Expense,Debit Card,Weaver Group,New Brittanychester,Visit assume fact.,42689,84499
+904,2025-10-07,Medical,Health Checkup,2171,Expense,Cash,"Navarro, Galvan and Douglas",Stephanieside,Who laugh leader side rest.,31641,67266
+905,2025-07-23,Entertainment,Movies,3343,Expense,Bank Transfer,Garcia and Sons,South Michelle,Ground moment student wear pattern.,16027,2720
+906,2025-12-28,Medical,Health Checkup,1770,Expense,Debit Card,"Mays, Andrews and Kelley",Port Susanfurt,Suffer hot local.,38369,29141
+907,2025-11-03,Transport,Bus,1900,Expense,Bank Transfer,Price-Carney,North Eduardo,Boy when environmental high.,48666,23884
+908,2025-04-15,Entertainment,Movies,803,Expense,Credit Card,"Brown, Martin and Caldwell",Guerraview,Loss financial.,26299,38083
+909,2025-07-31,Bills,Internet,3668,Expense,Credit Card,Williams-Steele,Coreymouth,Let seven personal.,40555,36205
+910,2025-05-12,Income,Scholarship,30129,Income,UPI,"Compton, Hall and Carr",South Timothy,Space everybody attention.,9411,27189
+911,2025-11-19,Transport,Taxi,3927,Expense,Credit Card,"Lucas, Romero and Jones",Port Stephaniefurt,Plant campaign.,48947,67221
+912,2026-04-14,Income,Scholarship,34251,Income,Debit Card,"Foster, Gomez and Vasquez",Paulashire,Practice order rise early.,10439,56912
+913,2026-01-04,Medical,Health Checkup,1618,Expense,Bank Transfer,Nelson-Rose,Cooperfort,Since sound rest.,36251,73360
+914,2025-10-14,Education,Stationery,4072,Expense,Credit Card,"Pope, Williams and Miller",West Mariaport,Occur three build woman citizen.,39621,97135
+915,2025-03-15,Entertainment,Games,3620,Expense,Debit Card,"Sanchez, Johnston and Smith",Lake Kevin,Might that there.,16443,19167
+916,2025-09-02,Shopping,Electronics,3484,Expense,Bank Transfer,"Butler, Perkins and Ward",Rosston,Marriage would finish present.,16426,5686
+917,2026-03-07,Income,Scholarship,33142,Income,Cash,Robinson LLC,Smithshire,Weight way by.,29846,19524
+918,2025-03-10,Medical,Medicine,3003,Expense,Bank Transfer,"Orozco, Martin and Garcia",Lake Johnburgh,School behind wonder.,49563,75924
+919,2025-01-25,Bills,Internet,300,Expense,Bank Transfer,Crawford Inc,New Jennifer,Tv later.,32850,61214
+920,2026-02-23,Food,Snacks,2987,Expense,UPI,"Cruz, Colon and Jenkins",Joshuaview,Push common.,33002,57508
+921,2025-10-21,Entertainment,Movies,520,Expense,UPI,"Garrett, Hughes and Jones",Davidmouth,Action life control also medical.,40575,76641
+922,2025-01-04,Medical,Doctor,1210,Expense,Cash,Fuller-Cook,Millermouth,Herself north southern receive national.,11116,14025
+923,2025-04-19,Food,Restaurant,1143,Expense,Credit Card,Campbell Ltd,Stevensbury,Daughter compare.,41155,16890
+924,2026-03-04,Medical,Health Checkup,1288,Expense,Cash,Rogers-Wilson,Stewartport,Fire though war agreement compare.,43448,7663
+925,2025-08-02,Education,Stationery,3391,Expense,Bank Transfer,Mcclain Ltd,North Sarastad,Letter effort city area.,9698,42936
+926,2026-02-19,Medical,Medicine,2113,Expense,UPI,"Perry, Pratt and Garcia",New Karen,Trip than his.,18583,1692
+927,2026-05-12,Bills,Internet,4861,Expense,Debit Card,Mendez and Sons,Lake Tracyview,Minute he keep.,46891,15752
+928,2026-02-25,Bills,Water,575,Expense,Bank Transfer,Reyes Ltd,East Cindy,Everybody design.,22133,54839
+929,2025-07-02,Bills,Water,4755,Expense,UPI,"Pierce, Torres and Hughes",Caseyview,Many both born majority.,35972,32377
+930,2026-05-16,Food,Snacks,2314,Expense,Credit Card,Wilson-Cochran,North Haleyview,Gun federal example magazine ask.,6568,13307
+931,2025-01-16,Education,Courses,3258,Expense,Bank Transfer,Brown-Dorsey,Herreraberg,Hold quality.,40664,58553
+932,2025-05-16,Travel,Hotel,3647,Expense,Debit Card,Rocha-Rivera,Lake Diana,Especially take full game.,11637,71995
+933,2025-06-13,Transport,Taxi,4201,Expense,Debit Card,Jones LLC,South Stephenfort,Knowledge consumer perhaps.,28841,40669
+934,2026-04-21,Medical,Medicine,3844,Expense,Credit Card,Tucker-Stone,Vaughnton,Sign last series without large.,22450,47700
+935,2026-02-05,Entertainment,Streaming,265,Expense,Credit Card,"Stewart, Parker and Ramsey",South Laura,Year receive.,30017,18123
+936,2025-01-06,Bills,Electricity,2820,Expense,Debit Card,Blair Group,Danielville,Notice next.,6678,33823
+937,2026-02-26,Travel,Flight,1228,Expense,Credit Card,Rodriguez LLC,Port Timothy,Keep where.,7073,92453
+938,2025-02-26,Travel,Flight,3719,Expense,Bank Transfer,"Mcdonald, Pace and Campbell",Maryside,Degree decide garden.,26113,14320
+939,2026-02-23,Income,Scholarship,11560,Income,Cash,"Barnes, Thomas and Duncan",Melissaport,Analysis hour hospital.,39627,82060
+940,2025-11-05,Entertainment,Streaming,2775,Expense,Bank Transfer,"Shelton, Bowman and Fitzpatrick",Ingramshire,Think so difficult miss.,43336,99201
+941,2025-05-26,Bills,Internet,4469,Expense,Bank Transfer,Gray LLC,Nguyenfurt,Owner life run help.,21292,90951
+942,2026-02-08,Shopping,Accessories,1538,Expense,Credit Card,Vaughn Inc,West Robert,Open order leave.,44339,8820
+943,2025-10-08,Bills,Electricity,2021,Expense,Cash,King Ltd,West Gary,Someone size save somebody although.,18009,45114
+944,2026-04-28,Income,Salary,38275,Income,Cash,Palmer Group,Port Carl,Soldier better system painting.,17880,98437
+945,2025-06-24,Transport,Fuel,2894,Expense,Cash,"Dominguez, Perez and Perry",South Aliciachester,Cup policy.,30791,19447
+946,2025-01-07,Education,Books,214,Expense,Bank Transfer,"Love, Parsons and Garner",Jessetown,Meet improve respond man.,40247,90291
+947,2026-04-15,Bills,Electricity,3788,Expense,Credit Card,Turner-Payne,Steeleberg,Into unit say.,19514,47986
+948,2025-07-04,Shopping,Clothes,2124,Expense,Debit Card,"Palmer, Luna and White",South Kristenstad,Upon card reflect president.,20069,49851
+949,2025-09-03,Income,Freelancing,11834,Income,UPI,Davis and Sons,Lake Jackieville,Room election.,36818,92587
+950,2026-02-28,Income,Salary,33268,Income,Bank Transfer,Abbott-Golden,Lake Jessicachester,Wait husband these.,12985,48947
+951,2025-04-13,Medical,Doctor,1102,Expense,Cash,Davis LLC,Lake Robert,Office he station.,33195,81064
+952,2025-12-23,Entertainment,Streaming,3989,Expense,Credit Card,"Barker, Gill and Hopkins",East Andrewbury,Drop write follow.,27828,68797
+953,2025-09-06,Shopping,Accessories,1604,Expense,Credit Card,"Bolton, Robinson and Graham",Lewisstad,Special job church activity.,27194,17692
+954,2026-05-14,Entertainment,Streaming,601,Expense,UPI,Rodriguez Group,Danielfort,Dark available specific difference.,29542,83269
+955,2025-03-11,Food,Groceries,1518,Expense,UPI,"Trujillo, Savage and Harris",South Nicolefort,Begin leader against song.,13985,35779
+956,2025-05-29,Shopping,Electronics,4817,Expense,Cash,Johnson and Sons,North Caroltown,Two dinner particular.,9659,48687
+957,2025-08-21,Income,Salary,5239,Income,Debit Card,"Dudley, Lynn and Richardson",East Donnamouth,Subject sense agent.,15981,27358
+958,2025-08-27,Bills,Internet,1185,Expense,Bank Transfer,Sutton-Dunn,Rebeccachester,Establish tonight pattern.,45198,52073
+959,2025-05-13,Travel,Tour,577,Expense,Cash,Gardner-Lamb,New Whitney,Send customer attention may.,29955,85025
+960,2025-03-31,Transport,Fuel,4536,Expense,Debit Card,Snyder Group,East Keithview,Degree toward full hotel new.,43084,7614
+961,2025-11-18,Food,Snacks,1447,Expense,Debit Card,"Wright, Sanders and Mccarty",West Melissa,Born almost finally view quite.,24193,3995
+962,2025-02-01,Bills,Electricity,3310,Expense,UPI,Greene Ltd,Whitefort,Enter five team imagine.,26679,74536
+963,2026-01-22,Travel,Tour,372,Expense,Bank Transfer,Edwards Group,Lake Jessica,Write rock letter ok.,29862,10237
+964,2025-02-10,Food,Restaurant,2502,Expense,Bank Transfer,Pacheco-Smith,East Connorhaven,Hold Mr long difficult surface.,13866,48587
+965,2025-03-13,Food,Restaurant,1667,Expense,Credit Card,Cantrell-Roberts,Gutierrezhaven,Consider check still bit age.,38238,73665
+966,2026-05-12,Education,Books,2156,Expense,Cash,"Thompson, Perez and Lewis",Cooktown,People issue.,22562,91716
+967,2026-03-17,Travel,Hotel,1860,Expense,Bank Transfer,Owens-Johnson,Ashleymouth,Attorney science morning happy.,37549,46796
+968,2025-05-04,Shopping,Electronics,726,Expense,Credit Card,Marshall LLC,Lake Markmouth,Show also.,49985,19483
+969,2026-02-22,Transport,Taxi,420,Expense,Credit Card,Miller-Luna,North Brandon,Newspaper together.,5158,45413
+970,2025-08-31,Bills,Water,4786,Expense,Debit Card,Cunningham LLC,Anthonyshire,Art reality but work.,45604,6436
+971,2026-02-21,Food,Groceries,1054,Expense,Cash,Patel-Lee,New Kenneth,Whose the result box building.,25622,28391
+972,2025-07-15,Income,Scholarship,41659,Income,Credit Card,Grimes-Kelly,Myersport,Network research indicate.,32987,81930
+973,2025-01-05,Travel,Hotel,2471,Expense,Bank Transfer,Robinson Group,East Ericashire,Ready road once.,15322,99800
+974,2026-04-14,Income,Scholarship,9299,Income,Credit Card,"Hill, Gonzalez and Turner",Laurenville,Fact war pretty seem.,40043,29162
+975,2025-06-16,Shopping,Accessories,4676,Expense,Credit Card,Myers LLC,Reneefurt,Model cup never which.,8228,10998
+976,2026-01-31,Bills,Electricity,3952,Expense,UPI,"Hall, Johnson and Hall",Sullivanhaven,Research region where training radio.,25469,64312
+977,2025-02-10,Transport,Bus,4422,Expense,Cash,"Barr, Johnson and Christensen",New Karla,White increase education decision.,34098,44999
+978,2025-10-08,Education,Courses,2735,Expense,UPI,Wilson-Hernandez,Lake Jennifer,Enough property something sense pull.,21962,85592
+979,2025-04-29,Entertainment,Games,550,Expense,Cash,"Solomon, Baldwin and Brooks",Port Juliemouth,Memory happy.,26208,21113
+980,2026-04-01,Shopping,Electronics,1522,Expense,Debit Card,Murphy-Sosa,Marytown,Special skill.,17164,40972
+981,2025-07-30,Income,Salary,44441,Income,UPI,Reeves Ltd,Laurenfort,High available heart recently likely.,26822,72342
+982,2025-08-04,Entertainment,Streaming,1761,Expense,Bank Transfer,"Coleman, Haynes and Jones",Port Vincentport,Everyone simply available relationship.,29924,95038
+983,2025-08-23,Shopping,Electronics,3191,Expense,Bank Transfer,Wells-Daniels,North Ann,Want air letter serve.,26904,20684
+984,2025-07-29,Shopping,Clothes,3912,Expense,UPI,Webb-Burke,Lake Wesley,Drop firm key fear.,24989,42332
+985,2026-02-23,Medical,Medicine,3126,Expense,UPI,"Bauer, Young and Vaughn",Ramirezstad,Fast policy western method participant.,15752,33735
+986,2025-01-07,Income,Salary,29631,Income,Cash,Cox-Rivera,South Gary,Fine entire likely.,37170,97118
+987,2025-07-26,Medical,Medicine,695,Expense,Credit Card,Moody-Pitts,Lake Rachelfurt,City million learn.,22498,63562
+988,2025-08-13,Travel,Flight,3022,Expense,Bank Transfer,Bailey and Sons,Christophermouth,Them recent.,5868,29430
+989,2025-07-25,Education,Stationery,379,Expense,UPI,"Arellano, Hernandez and Griffin",Port Traceyport,Production visit question.,15003,10431
+990,2026-02-09,Transport,Taxi,3394,Expense,UPI,Douglas Inc,Hernandezville,Free player catch others morning.,6766,5340
+991,2025-05-15,Bills,Water,4221,Expense,Credit Card,Monroe PLC,Patriciabury,Pull recent majority.,5606,24655
+992,2025-09-27,Transport,Fuel,1910,Expense,Debit Card,Murillo-Parks,Lewistown,Marriage eight.,7079,49750
+993,2025-08-25,Income,Salary,43477,Income,UPI,Hill Ltd,North Jamesland,Professor he its responsibility.,24304,83789
+994,2026-02-16,Transport,Taxi,734,Expense,Credit Card,"Burke, Guzman and Carney",Garciaton,Born source ago.,15793,2065
+995,2025-05-19,Medical,Medicine,4897,Expense,Bank Transfer,Barrett-White,Smithside,Unit property me loss federal.,7454,31296
+996,2025-10-05,Shopping,Accessories,219,Expense,Debit Card,Mitchell-Campbell,Williamchester,Good may consumer despite.,42422,11297
+997,2025-01-06,Shopping,Clothes,2719,Expense,Credit Card,Mccormick Ltd,Cookfort,Whole president.,14371,40601
+998,2026-03-08,Shopping,Clothes,1228,Expense,Debit Card,Rice Group,Melissamouth,Doctor economic she.,16666,17402
+999,2026-03-13,Shopping,Electronics,1673,Expense,Cash,Bradford-Douglas,South Dawn,Let art.,38386,70808
+1000,2025-05-07,Food,Snacks,3429,Expense,UPI,"Bowman, Moyer and Henderson",Port Phillip,Little represent police.,49494,87994
