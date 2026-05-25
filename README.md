@@ -11,6 +11,7 @@ Internship Period:17 May 2026 - 28 June 2026
 Intern ID:CITS880
 
 Mentor:Neela Santhosh
+
 ---
 
 # Personal Expense Analytics Project
